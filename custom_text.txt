@@ -1,0 +1,32 @@
+//The first seven custom text particles are supposed to be in fixed positions.
+//Entries 1 through 3 are used for the "and his/her/its cohort/cohorts" in battle.
+//Entries 4 through 7 are used for telling the user in which slot a piece of equipment is supposed
+//to be put on.
+приятель
+приятели
+ и 
+ как оружие.
+ на тело.
+ на голову.
+.
+A 
+a 
+An 
+an 
+а
+the 
+Some 
+some 
+его 
+её 
+its 
+их 
+is 
+are 
+this 
+these 
+ваш 
+it
+them
+was 
+were 

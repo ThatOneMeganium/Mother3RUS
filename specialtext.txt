@@ -1,0 +1,105 @@
+// Most of the text here is meant for undiscovered debug menus,
+// but you should probably translate it anyway.
+// The technique names at the end of the file are used in battle, though.
+// All things in this file must be 19 letters or less.
+
+00:Pl. Movement Data
+00-E:Дн. Движения
+01:Attack
+01-E:Атака
+02:Defend
+02-E:Защита
+03:Run Away
+03-E:Сбежать
+04:Chapter 0 Attack
+04-E:Атака Главы 0
+05:Strange Attack
+05-E:Странная Атака
+06:Duster:Behind
+06-E:Дастер:Сзади
+07:Duster:Back Up
+07-E:Дастер:Отойти
+08:Duster:Pre.Strike
+08-E:Дастер:Пре.Удар
+09:(EMPTY)
+09-E:(ЕMPTY)
+0A:DCMC Intrusion
+0A-E:Вход DCMC
+0B:Baccio's Line
+0B-E:Строка Баццио
+0C:Baccio's Attack
+0C-E:Атака Баццио
+0D:Shimmy's Line
+0D-E:Строка Шимми
+0E:Shimmy's Attack
+0E-E:Атака Шимми
+0F:Magic's Line
+0F-E:Строка Мэджика
+10:Magic's Attack
+10-E:Атака Мэджика
+11:OJ's Line
+11-E:Строка ОДжея
+12:OJ's Attack
+12-E:Атака ОДжея
+13:Andonuts' Line
+13-E:Строка Эндонатса
+14:Andonuts' attack
+14-E:Атака Эндонатса
+15:Wess' Line
+15-E:Строка Вэсса
+16:Wess' Attack
+16-E:Атака Вэсса
+17:Flint's Line
+17-E:Строка Флинта
+18:Flint's Attack
+18-E:Атака Флинта
+19:Lucas Cant Attack
+19-E:Лукас Не Атакует
+1A:(EMPTY)
+1A-E:(EMPTY)
+1B:Last Bash
+1B-E:Последний Удар
+1C:Last PSI
+1C-E:Последний ПСИ
+1D:Last Goods
+1D-E:Последние Вещи
+1E:Last Guard
+1E-E:Последняя Защита
+1F:Flint: Special
+1F-E:Флинт:Спец
+20:Swing
+20-E:Замах
+21:Power Smash
+21-E:Сильный Удар
+22:Strengthen Up
+22-E:Усиление
+23:Toughen Up
+23-E:Укрепление
+24:Duster: Thief
+24-E:Дастер:Вор
+25:Wall Staple
+25-E:Стеноскобы
+26:Siren Beetle
+26-E:Жук-Сирена
+27:Hypno-Pendulum
+27-E:Гипномаятник
+28:Smoke Bomb
+28-E:Дымовая Бомба
+29:Scary Mask
+29-E:Страшная Маска
+2A:Tickle Stick
+2A-E:Палка-Щекоталка
+2B:Boney: Sniff
+2B-E:Боня:Нюх
+2C:Sniff
+2C-E:Нюх
+2D:Salsa:Tricks
+2D-E:Сальса:Трюки
+2E:Apologize
+2E-E:Извинение
+2F:Make Laugh
+2F-E:Рассмешить
+30:Dance
+30-E:Танец
+31:Monkey Mimic
+31-E:Мимика

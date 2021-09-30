@@ -1,0 +1,108 @@
+// All status names must be 14 letters or less
+// Most of the things in here are for undiscovered debug menus;
+// don't worry if your translations look weird
+
+00:(EMPTY)
+00-E:(ЕMPTY)
+01:Poison
+01-E:Яд
+02:Numb
+02-E:Паралич
+03:Sleep
+03-E:Сон
+04:Strange
+04-E:Путаница
+05:Crying
+05-E:Плач
+06:Forgetful
+06-E:Амнезия
+07:Nauseous
+07-E:Тошнота
+08:Fleas
+08-E:Блохи
+09:On Fire
+09-E:В огне
+0A:Stopped, Frozen
+0A-E:Стоп, Мороз
+0B:Smelly
+0B-E:Вонь
+0C:DCMC
+0C-E:DCMC
+0D:Staple Stopped
+0D-E:СтопСкобы
+0E:Apology Stopped
+0E-E:Стоп Извен.
+0F:Laugh Stopped
+0F-E:Стоп Смеха
+10:Defense
+10-E:Защита
+11:No EXP
+11-E:Нет Опыта
+12:Off Down (weak)
+12-E:Атк - (слаб)
+13:Off Down(strng)
+13-E:Атк - (сил)
+14:Def Down (weak)
+14-E:Защ - (слаб)
+15:Def Down(strng)
+15-E:Защ - (сил)
+16:Shield
+16-E:Щит
+17:Counter
+17-E:Контр
+18:Electrocuted
+18-E:Ток
+19:PSI Shield
+19-E:ПСИ Щит
+1A:PSI Counter
+1A-E:ПСИ Контр
+1B:Off Up (weak)
+1B-E:Атк + (слаб)
+1C:Off Up (strong)
+1C-E:Атк + (сил)
+1D:Def Up (weak)
+1D-E:Защ - (слаб)
+1E:Def Up (strong)
+1E-E:Защ + (сил)
+1F:Escape Failure
+1F-E:Побег провал
+20:Dance
+20-E:Танец
+21:Off Down (mid)
+21-E:Атк - (ср)
+22:Def Down (mid)
+22-E:Защ - (ср)
+23:Time Bomb
+23-E:Врем. Бомба
+24:Parameters Up
+24-E:Пар +
+25:Parameters Down
+25-E:Пар -
+26:Refresh
+26-E:Реген
+27:Fell
+27-E:Падение
+28:MonkeyDanceOff
+28-E:ОбезТанецАТК
+29:MonkeyDanceDef
+29-E:ОбезТанецЗАЩ
+2A:MonkeyDanceSP
+2A-E:ОбезТанецСКР
+2B:MonkeyDanceIQ
+2B-E:ОбезТанецИНТ
+2C:MonkeyDanceOff
+2C-E:ОбезТанецАТК
+2D:MonkeyDanceDef
+2D-E:ОбезТанецЗАЩ
+2E:MonkeyDanceSP
+2E-E:ОбезТанецСКР
+2F:MonkeyDanceIQ
+2F-E:ОбезТанецИНТ
+30:Endure
+30-E:Выдержка
+31:Off Up (mid)
+31-E:Атк + (ср)
+32:Def Up (mid)
+32-E:Защ + (ср)
+33:No Back Sprite
+33-E:Нет Спины

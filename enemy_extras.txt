@@ -1,0 +1,2058 @@
+// (EMPTY)
+-
+-
+-
+-
+-
+// Reconstructed Caribou
+A 
+a 
+-  
+-  
+его 
+// Mr. Passion
+- 
+- 
+-
+-
+его 
+// Oh-So-Snake
+-  
+-  
+-  
+-  
+его 
+// Clayman
+A 
+a 
+-  
+-  
+его 
+// Mecha Drago
+-  
+-  
+-  
+-  
+его 
+// Pork Tank
+A 
+a 
+-  
+-  
+его 
+// Mr. Genetor
+-
+-
+-
+-
+его 
+// Mole Cricket
+-  
+-  
+-  
+-  
+его 
+// Eerie Smile
+An 
+an 
+а
+-  
+её 
+// Bright Smile
+A 
+a 
+а
+-  
+её 
+// Porky
+-
+-
+-
+-
+его 
+// N.K. Cyborg
+-  
+-  
+-  
+-  
+его 
+// Masked Man
+-  
+-  
+-  
+-  
+его 
+// Fierce Pork Trooper
+-  
+-  
+-  
+-  
+его 
+// Fierce Pork Trooper
+-  
+-  
+-  
+-  
+его 
+// Jealous Bass
+-  
+-  
+-  
+-  
+его 
+// Porky
+-
+-
+-
+-
+его 
+// Sticky Slug
+A 
+a 
+-  
+-  
+его 
+// PORKY 02
+-
+-
+-
+-
+его 
+// King Statue
+-  
+-  
+а
+-  
+её 
+// Hippo Launcher
+A 
+a 
+-  
+-  
+его 
+// New Fassad
+-
+-
+-
+-
+его 
+// Eerie Smile
+An 
+an 
+а
+-  
+её 
+// Lord Passion
+-
+-
+-
+-
+его 
+// Tender Loving Tree
+A 
+a 
+-  
+-  
+его 
+// PORKY 03
+-
+-
+-
+-
+его 
+// PORKY 08
+-
+-
+-
+-
+его 
+// Miracle Fassad
+-
+-
+-
+-
+его 
+// Pigmask Major
+A 
+a 
+-  
+-  
+его 
+// Great Antlion
+A 
+a 
+-  
+-  
+его 
+// Fenomeno
+A 
+a 
+-  
+-  
+его 
+// Rhinocerocket Mark II
+A 
+a 
+-  
+-  
+его 
+// Frightbot
+A 
+a 
+-  
+-  
+его 
+// -  Squeekz
+-
+-
+-
+-
+его 
+// Pyrefly
+A 
+a 
+а
+-  
+её 
+// Mecha-Lion
+A 
+a 
+-  
+-  
+его 
+// Road Block
+A 
+a 
+а
+-  
+его 
+// Scamperin' Shroom
+A 
+a 
+-  
+-  
+его 
+// Sinister Bird on a Stick
+A 
+a 
+а
+-  
+её 
+// Top Dogfish
+A 
+a 
+а
+-  
+её 
+// Mr. Batty
+-
+-
+-
+-
+его 
+// Greedy Mouse
+A 
+a 
+а
+-  
+её 
+// Pyrefly
+A 
+a 
+а
+-  
+её 
+// Yammonster
+A 
+a 
+-  
+-  
+его 
+// Flying Mouse
+A 
+a 
+а
+-  
+её 
+// PORKY 01
+-
+-
+-
+-
+его 
+// Agitated Boar
+An 
+an 
+-  
+-  
+его 
+// Mighty Bitey Snake
+A 
+a 
+а
+-  
+её 
+// Soot Dumpling
+A 
+a 
+а
+-  
+её 
+// Baked Yammonster
+A 
+a 
+-  
+-  
+его 
+// Walking Bushie
+A 
+a 
+-  
+-  
+его 
+// Carefree Jellyfish
+A 
+a 
+а
+-  
+её 
+// Metal Monkey
+A 
+a 
+а
+-  
+её 
+// Crag Lizard
+A 
+a 
+-  
+-  
+его 
+// Spud Bug
+A 
+a 
+-  
+-  
+его 
+// Ten-Yeti
+A 
+a 
+-  
+-  
+его 
+// Chilly Dog
+A 
+a 
+-  
+-  
+его 
+// Slimy Slug
+A 
+a 
+-  
+-  
+его 
+// Minerali
+A 
+a 
+-  
+-  
+его 
+// Ramblin' Mushroom
+A 
+a 
+-  
+-  
+его 
+// Mole Cricket
+-  
+-  
+-  
+-  
+его 
+// Boa Transistor
+A 
+a 
+-  
+-  
+его 
+// Mischievous Mole
+A 
+a 
+-  
+-  
+его 
+// Mecha-Mole!
+A 
+a 
+-  
+-  
+его 
+// Balding Eagle
+A 
+a 
+а
+-  
+её 
+// Tree
+A 
+a 
+-  
+-  
+его 
+// Titany
+A 
+a 
+а
+-  
+её 
+// Frosted Bun
+A 
+a 
+а
+-  
+её 
+// Mrs. Lava
+-
+-
+а
+-
+её 
+// Magman
+A 
+a 
+-  
+-  
+его 
+// Zombie Man
+A 
+a 
+-  
+-  
+его 
+// Zombie Dog
+A 
+a 
+-  
+-  
+его 
+// Lingering Spirit
+A 
+a 
+-  
+-  
+его 
+// Mobile Grave
+A 
+a 
+а
+-  
+её 
+// Detached Leech
+A 
+a 
+а
+-  
+её 
+// Spineless Lobster
+A 
+a 
+-  
+-  
+его 
+// HUGE Pillbug
+A 
+a 
+а
+-  
+её 
+// Cheery Skeleton
+A 
+a 
+-  
+-  
+его 
+// Big Bro
+A 
+a 
+-  
+-  
+его 
+// Barrel Man
+A 
+a 
+-  
+-  
+его 
+// Strawberry Slime
+A 
+a 
+а
+-  
+её 
+// Arachnid!
+An 
+an 
+-  
+-  
+его 
+// Violent Roach
+A 
+a 
+-  
+-  
+его 
+// Barrier Trio
+-  
+-  
+-  
+-  
+их 
+// Ghost Armor
+Some 
+some 
+а
+-  
+её 
+// Ghost Sword
+A 
+a 
+-  
+-  
+его 
+// Ghost Shield
+A 
+a 
+-  
+-  
+его 
+// Ghost Knight
+A 
+a 
+-  
+-  
+его 
+// Osohe Cape
+An 
+an 
+-  
+-  
+его 
+// Rockin' Ghost
+A 
+a 
+-  
+-  
+его 
+// Pseudoor
+A 
+a 
+а
+-  
+её 
+// Eerie Smile
+An 
+an 
+а
+-  
+её 
+// Dung Beetle
+A 
+a 
+-  
+-  
+его 
+// Great Antlion
+A 
+a 
+-  
+-  
+его 
+// Sara-Sara-Sahara
+A 
+a 
+а
+-  
+её 
+// Sand Lizard
+A 
+a 
+-  
+-  
+его 
+// Cactus Wolf
+A 
+a 
+-  
+-  
+его 
+// Gooey Goo
+A 
+a 
+а
+-  
+её 
+// Mummy Kitty
+A 
+a 
+а
+-  
+её 
+// Li'l Big Bro
+A 
+a 
+-  
+-  
+его 
+// Zombieshroom
+A 
+a 
+-  
+-  
+его 
+// Stinky Ghost
+A 
+a 
+-  
+-  
+его 
+// Artsy Ghost
+-  
+-  
+-  
+-  
+его 
+// Horsantula
+A 
+a 
+-  
+-  
+его 
+// Pigtunia
+A 
+a 
+а
+-  
+её 
+// Bird on a Stick
+A 
+a 
+а
+-  
+её 
+// Putrid Moldyman
+A 
+a 
+-  
+-  
+его 
+// Sli- rhen
+A 
+a 
+-  
+-  
+его 
+// Whatever
+A 
+a 
+-  
+-  
+его 
+// Dogfish
+A 
+a 
+а
+-  
+её 
+// Cattlesnake
+A 
+a 
+а
+-  
+её 
+// Einswine
+An 
+an 
+-  
+-  
+его 
+// Praying Mantis
+A 
+a 
+-  
+-  
+его 
+// Ancient Dragonfly
+An 
+an 
+а
+-  
+её 
+// Filthy Attack Roach
+A 
+a 
+-  
+-  
+его 
+// Muttshroom
+A 
+a 
+-  
+-  
+его 
+// Mecha-Turtle
+A 
+a 
+а
+-  
+её 
+// Bro Team
+A 
+a 
+-  
+-  
+их 
+// Batangutan
+A 
+a 
+-  
+-  
+его 
+// Ostrelephant
+An 
+an 
+-  
+-  
+его 
+// Sky Titany
+A 
+a 
+а
+-  
+её 
+// Monkalrus
+A 
+a 
+а
+-  
+её 
+// Parental Kangashark
+A 
+a 
+а
+-  
+её 
+// Li'l Miss Marshmallow
+-
+-
+а
+-
+её 
+// Almost Mecha-Lion
+An 
+an 
+-  
+-  
+его 
+// Rhinocerocket
+A 
+a 
+-  
+-  
+его 
+// Wound-Up Boar
+A 
+a 
+-  
+-  
+его 
+// Metal Attack Roach
+A 
+a 
+-  
+-  
+его 
+// Really Flying Mouse
+A 
+a 
+а
+-  
+её 
+// Short Circuit Zap!
+A 
+a 
+-  
+-  
+его 
+// Minor Robot
+A 
+a 
+-  
+-  
+его 
+// Love Walker
+A 
+a 
+а
+-  
+его 
+// Eerie Smile
+An 
+an 
+а
+-  
+её 
+// Atomic Robot
+An 
+an 
+-  
+-  
+его 
+// Nuclear Robot
+A 
+a 
+-  
+-  
+его 
+// Negative Man
+-
+-
+-
+-
+его 
+// Heftyhead
+A 
+a 
+-  
+-  
+его 
+// Nice Poser
+A 
+a 
+-  
+-  
+его 
+// Big Spud Bug
+A 
+a 
+-  
+-  
+его 
+// Grated Yammonster
+A 
+a 
+-  
+-  
+его 
+// Hippo Launcher
+A 
+a 
+-  
+-  
+его 
+// Steel Mechorilla
+-  
+-  
+а
+-  
+её 
+// Zombidillo
+A 
+a 
+-  
+-  
+его 
+// Fish Roe Man
+A 
+a 
+-  
+-  
+его 
+// PORKY 07
+-
+-
+-
+-
+его 
+// Return of Octobot
+-
+-
+-  
+-  
+его 
+// Carpet Monster
+A 
+a 
+-  
+-  
+его 
+// Recon Mech
+A 
+a 
+-  
+-  
+его 
+// Pigmask
+A 
+a 
+-  
+-  
+его 
+// Zombie Lady
+A 
+a 
+а
+-  
+её 
+// Naughty Mushroom
+A 
+a 
+-  
+-  
+его 
+// Elder Batty
+An 
+an 
+-  
+-  
+его 
+// Arachnid!!!!
+An 
+an 
+-  
+-  
+его 
+// Greedier Mouse
+A 
+a 
+а
+-  
+её 
+// Gently Weeping Guitar
+A 
+a 
+а
+-  
+её 
+// Beaten Drum
+-  
+-  
+-  
+-  
+его 
+// Reconstructed Mole
+A 
+a 
+-  
+-  
+его 
+// Reconstructed Lion
+A 
+a 
+-  
+-  
+его 
+// Wobbly Robot
+A 
+a 
+-  
+-  
+его 
+// Men's Room Sign
+A 
+a 
+-  
+-  
+его 
+// Scrapped Robot
+A 
+a 
+-  
+-  
+его 
+// Forlorn Junk Heap
+-  
+-  
+а
+-  
+её 
+// Surprise Box
+-  
+-  
+-  
+-  
+его 
+// Battery Man
+A 
+a 
+-  
+-  
+его 
+// Screwloose
+A 
+a 
+-  
+-  
+его 
+// Cuddle Bomb
+A 
+a 
+а
+-  
+её 
+// K9000
+A 
+a 
+-  
+-  
+его 
+// Alkaline Man
+An 
+an 
+-  
+-  
+его 
+// PORKY 06
+-
+-
+-
+-
+его 
+// Pigmask Major
+A 
+a 
+-  
+-  
+его 
+// Pigmask Colonel
+A 
+a 
+-  
+-  
+его 
+// Pigmask Lieutenant
+A 
+a 
+-  
+-  
+его 
+// Navy SQUEAL
+A 
+a 
+-  
+-  
+его 
+// Master Eddy
+-
+-
+-
+-
+его 
+// Rock Lobster
+A 
+a 
+-  
+-  
+его 
+// Rooound Fish
+A 
+a 
+а
+-  
+её 
+// Blue Balding Eagle
+A 
+a 
+а
+-  
+её 
+// Security Robot
+A 
+a 
+-  
+-  
+его 
+// Unwelcome Gust
+An 
+an 
+-  
+-  
+его 
+// PORKY 09
+-
+-
+-
+-
+его 
+// PORKY 10
+-
+-
+-
+-
+его 
+// Titanian
+A 
+a 
+а
+-  
+её 
+// Upgraded Robot
+An 
+an 
+-  
+-  
+его 
+// Beanling
+A 
+a 
+-  
+-  
+его 
+// Black Beanling
+A 
+a 
+-  
+-  
+его 
+// Tiny Forest
+A 
+a 
+-  
+-  
+его 
+// PORKY 04
+-
+-
+-
+-
+его 
+// PORKY 05
+-
+-
+-
+-
+его 
+// Masked Man
+-  
+-  
+-  
+-  
+его 
+// Masked Man
+-  
+-  
+-  
+-  
+его 
+// (EMPTY)
+-
+-
+-
+-
+-
+// Pick
+-
+-
+-
+-
+-
+// Antlion
+-
+-
+-
+-
+-
+// Pigmask Trooper
+-
+-
+-
+-
+-
+// Crab
+-
+-
+-
+-
+-
+// Electric Catfish
+-
+-
+-
+-
+-
+// Shimmy Zmizz
+-
+-
+-
+-
+-
+// Magic
+-
+-
+-
+-
+-
+// Duster
+-
+-
+-
+-
+-
+// Keyboard
+-
+-
+-
+-
+-
+// OJ
+-
+-
+-
+-
+-
+// Robot
+-
+-
+-
+-
+-
+// Dung Beetle
+-
+-
+-
+-
+-
+// Tent Person
+-
+-
+-
+-
+-
+// Snow Hare
+-
+-
+-
+-
+-
+// Clayman
+-
+-
+-
+-
+-
+// Vapor
+-
+-
+-
+-
+-
+// Rope Snake
+-
+-
+-
+-
+-
+// Rope Snake
+-
+-
+-
+-
+-
+// Aeolia's Table
+-
+-
+-
+-
+-
+// Straw
+-
+-
+-
+-
+-
+// Vapor 2
+-
+-
+-
+-
+-
+// Mini Elevator
+-
+-
+-
+-
+-
+// Drago
+-
+-
+-
+-
+-
+// Pigmask Trooper
+-
+-
+-
+-
+-
+// Green Train
+-
+-
+-
+-
+-
+// Pump Drago
+-
+-
+-
+-
+-
+// Three Amigos
+-
+-
+-
+-
+-
+// Flower
+-
+-
+-
+-
+-
+// Rope Ladder
+-
+-
+-
+-
+-
+// Flame 3
+-
+-
+-
+-
+-
+// Flag
+-
+-
+-
+-
+-
+// Ropeway
+-
+-
+-
+-
+-
+// (EMPTY)
+-
+-
+-
+-
+-
+// Piece
+-
+-
+-
+-
+-
+// Flame 1
+-
+-
+-
+-
+-
+// Lotus Root
+-
+-
+-
+-
+-
+// Unworked Clay
+-
+-
+-
+-
+-
+// Explosion
+-
+-
+-
+-
+-
+// Smoke
+-
+-
+-
+-
+-
+// Statue Head
+-
+-
+-
+-
+-
+// Carousel
+-
+-
+-
+-
+-
+// Nippo's Dresser
+-
+-
+-
+-
+-
+// Firefly Swarm
+-
+-
+-
+-
+-
+// Hinawa's Cloth
+-
+-
+-
+-
+-
+// Electric Catfish
+-
+-
+-
+-
+-
+// Broom
+-
+-
+-
+-
+-
+// Fish
+-
+-
+-
+-
+-
+// Sea Urchin
+-
+-
+-
+-
+-
+// Train
+-
+-
+-
+-
+-
+// Sign
+-
+-
+-
+-
+-
+// Sign
+-
+-
+-
+-
+-
+// (EMPTY)
+-
+-
+-
+-
+-
+// Portrait
+-
+-
+-
+-
+-
+// Nice Ghost
+-
+-
+-
+-
+-
+// Trash Can
+-
+-
+-
+-
+-
+// Steel Ball
+-
+-
+-
+-
+-
+// Egg of Light
+-
+-
+-
+-
+-
+// Chestnut
+-
+-
+-
+-
+-
+// Rockin' Ghost
+-
+-
+-
+-
+-
+// Candle
+-
+-
+-
+-
+-
+// Mouse
+-
+-
+-
+-
+-
+// Energy Machine
+-
+-
+-
+-
+-
+// Light Blade
+-
+-
+-
+-
+-
+// Wine Glass
+-
+-
+-
+-
+-
+// Rope Snake
+-
+-
+-
+-
+-
+// Stinkbug
+-
+-
+-
+-
+-
+// Garbage Truck
+-
+-
+-
+-
+-
+// Smoke
+-
+-
+-
+-
+-
+// Ionia
+-
+-
+-
+-
+-
+// Doria
+-
+-
+-
+-
+-
+// Magnifier
+-
+-
+-
+-
+-
+// Text Balloon
+-
+-
+-
+-
+-
+// Sign
+-
+-
+-
+-
+-
+// NO Stone
+-
+-
+-
+-
+-
+// Kumatora
+-
+-
+-
+-
+-
+// Stone Fragment
+-
+-
+-
+-
+-
+// That Car
+-
+-
+-
+-
+-
+// Black Drago
+-
+-
+-
+-
+-
+// Mole Cricket
+-
+-
+-
+-
+-
+// Lightning
+-
+-
+-
+-
+-
+// Mo- rship
+-
+-
+-
+-
+-
+// (EMPTY)
+-
+-
+-
+-
+-
+// Lydia
+-
+-
+-
+-
+-
+// Mixolydia
+-
+-
+-
+-
+-
+// Hinawa
+-
+-
+-
+-
+-
+// Frozen Drago
+-
+-
+-
+-
+-
+// Porky
+-
+-
+-
+-
+-
+// Thunder
+-
+-
+-
+-
+-
+// Child Mouse
+-
+-
+-
+-
+-
+// Dr. Andonuts
+-
+-
+-
+-
+-
+// Osohe Castle
+-
+-
+-
+-
+-
+// Mo- rship
+-
+-
+-
+-
+-
+// Volcano
+-
+-
+-
+-
+-
+// Explosion FX
+-
+-
+-
+-
+-
+// Caption
+-
+-
+-
+-
+-
+// Distant Mo- rship
+-
+-
+-
+-
+-
+// Tiles
+-
+-
+-
+-
+-
+// (EMPTY)
+-
+-
+-
+-
+-
+// Water Column
+-
+-
+-
+-
+-
+// Distant Mo- rship
+-
+-
+-
+-
+-
+// NO Rock Smoke
+-
+-
+-
+-
+-
+// Smoke
+-
+-
+-
+-
+-
+// Sapling
+-
+-
+-
+-
+-
+// (EMPTY)
+-
+-
+-
+-
+-
+// (EMPTY)
+-
+-
+-
+-
+-
+// (EMPTY)
+-
+-
+-
+-
+-
+// (EMPTY)
+-
+-
+-
+-
+-
+// (EMPTY)
+-
+-
+-
+-
+-
+// Grave
+-
+-
+-
+-
+-
+// Phrygia
+-
+-
+-
+-
+-
+// Cube
+-
+-
+-
+-
+-
+// Iron Octopus
+-
+-
+-
+-
+-
+// Caribou
+-
+-
+-
+-
+-
+// Ionia
+-
+-
+-
+-
+-
+// Dryer Drago Wind
+-
+-
+-
+-
+-
+// Mushroom
+-
+-
+-
+-
+-
+// Bridge
+-
+-
+-
+-
+-
+// Halluc. Blue Tent
+-
+-
+-
+-
+-
+// Wooden Table Horse 1
+-
+-
+-
+-
+-
+// Wooden Table Horse 2
+-
+-
+-
+-
+-
+// Wooden Table Horse 3
+-
+-
+-
+-
+-
+// Boat on Mind's 100F
+-
+-
+-
+-
+-
+// Mini Porkybot
+-
+-
+-
+-
+-
+// Sign
+-
+-
+-
+-
+-
+// Unicycle
+-
+-
+-
+-
+-
+// Game Balloon
+-
+-
+-
+-
+-
+// Octopus Ink
+-
+-
+-
+-
+-
+// Dragon Fireworks
+-
+-
+-
+-
+-
+// Skyrocket
+-
+-
+-
+-
+-
+// Police Car
+-
+-
+-
+-
+-
+// Automobile
+-
+-
+-
+-
+-
+// Titiboo Attic Kotatsu
+-
+-
+-
+-
+-
+// Wooden MO- R 3 Title
+-
+-
+-
+-
+-
+// Overworld
+-
+-
+-
+-
+-
+// Underworld
+-
+-
+-
+-
+-
+// Mens Room Door
+-
+-
+-
+-
+-
+// Aeolia & Sofa
+-
+-
+-
+-
+-
+// EMPTY (Character)
+-
+-
+-
+-
+-
+// Flint
+-
+-
+-
+-
+его 
+// Lucas
+-
+-
+-
+-
+его 
+// Duster
+-
+-
+-
+-
+его 
+// Kumatora
+-
+-
+а
+-
+её 
+// Boney
+-
+-
+-
+-
+его 
+// Salsa
+-
+-
+-
+-
+его 
+// Wess
+-
+-
+-
+-
+его 
+// Thomas
+-
+-
+-
+-
+его 
+// Ionia
+-
+-
+-
+-
+его 
+// Fuel
+-
+-
+-
+-
+его 
+// Alec
+-
+-
+-
+-
+его 
+// Fassad
+-
+-
+-
+-
+его 
+// Claus
+-
+-
+-
+-
+его 

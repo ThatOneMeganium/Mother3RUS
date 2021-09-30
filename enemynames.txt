@@ -1,0 +1,660 @@
+// Enemy names must be 24 letters or less
+
+0000: (EMPTY)
+0000-E: (ЕMPTY)
+0001: Reconstructed Caribou
+0001-E: Реконстр. Карибу
+0002: Mr. Passion
+0002-E: Г-н Увлечение
+0003: Oh-So-Snake
+0003-E: Осозмей
+0004: Clayman
+0004-E: Глиняник
+0005: Mecha-Drago
+0005-E: Меха-Драго
+0006: Pork Tank
+0006-E: Свинский Танк
+0007: Mr. Genetor
+0007-E: Г-н Генетор
+0008: Mole Cricket
+0008-E: Медведка
+0009: Eerie Smile
+0009-E: Страшная Улыбка
+000A: Bright Smile
+000A-E: Яркая Улыбка
+000B: Porky
+000B-E: Порки
+000C: N.K. Cyborg
+000C-E: Н. К. Киборг
+000D: Masked Man
+000D-E: Человек в маске
+000E: Fierce Pork Trooper
+000E-E: Злой Свин-Солдат
+000F: Fierce Pork Trooper
+000F-E: Злой Свин-Солдат
+0010: Jealous Bass
+0010-E: Завистливый Басс
+0011: Porky
+0011-E: Порки
+0012: Sticky Slug
+0012-E: Липкий Слизень
+0013: PORKY 02
+0013-E: ПОРКИ 02
+0014: King Statue
+0014-E: Статуя Короля
+0015: Hippo Launcher
+0015-E: Бегемотатель
+0016: New Fassad
+0016-E: Новый Фассад
+0017: Eerie Smile
+0017-E: Страшная Улыбка
+0018: Lord Passion
+0018-E: Властелин Увлечение
+0019: Tender Loving Tree
+0019-E: Ласк. Любящее Дерево
+001A: PORKY 03
+001A-E: ПОРКИ 03
+001B: PORKY 08
+001B-E: ПОРКИ 08
+001C: Miracle Fassad
+001C-E: Чудо-Фассад
+001D: Pigmask Major
+001D-E: Майор Свиномаск
+001E: Great Antlion
+001E-E: Муравьиный лев
+001F: Fenomeno
+001F-E: Феномено
+0020: Rhinocerocket Mark II
+0020-E: Носорогкета МК 2
+0021: Frightbot
+0021-E: Страхобот
+0022: The Squeekz
+0022-E: Сквикз
+0023: Pyrefly
+0023-E: Пламемуха
+0024: Mecha-Lion
+0024-E: Меха-Лев
+0025: Road Block
+0025-E: Блокпост
+0026: Scamperin' Mushroom
+0026-E: Беглый Гриб
+0027: Squawking Boomstick
+0027-E: Пищащая Бум-Палка
+0028: Top Dogfish
+0028-E: Высшая Рыбака
+0029: Mr. Batty
+0029-E: Г-н Мыша
+002A: Greedy Mouse
+002A-E: Жадная Мышь
+002B: Firefly
+002B-E: Огнемуха
+002C: Yammonster
+002C-E: Бататомонстр
+002D: Flying Mouse
+002D-E: Мышь-Летунья
+002E: PORKY 01
+002E-E: ПОРКИ 01
+002F: Agitated Boar
+002F-E: Взведённый Кабан
+0030: Mighty Bitey Snake
+0030-E: Кусючая Змея
+0031: Soot Dumpling
+0031-E: Пепельная Клёцка
+0032: Baked Yammonster
+0032-E: Печёный Бататомонстр
+0033: Walking Bushie
+0033-E: Бродячий Кустик
+0034: Carefree Jellyfish
+0034-E: Беззаботная Медуза
+0035: Mystery Metal Monkey
+0035-E: Металл. Обезьяна
+0036: Crag Lizard
+0036-E: Ящер-Скала
+0037: Spud Bug
+0037-E: Жучара
+0038: Ten-Yeti
+0038-E: Тэн-Йети
+0039: Chilly Dog
+0039-E: Хладопёс
+003A: Slimy Slug
+003A-E: Склизкий Слизень
+003B: Minerali
+003B-E: Минерали
+003C: Ramblin' Mushroom
+003C-E: Бродячий Гриб
+003D: Mole Cricket
+003D-E: Медведка
+003E: Boa Transistor
+003E-E: Удав-Транзистор
+003F: Mischievous Mole
+003F-E: Крот-Хулиган
+0040: Mecha-Mole!
+0040-E: Меха-Крот!
+0041: Balding Eagle
+0041-E: Белоголовый Орлан
+0042: Tree
+0042-E: Дерево
+0043: Titany
+0043-E: Титани
+0044: Frosted Bun
+0044-E: Булочка со снегом
+0045: Mrs. Lava
+0045-E: Мисс Лава
+0046: Magman
+0046-E: Магмэн
+0047: Zombie Man
+0047-E: Зомби-Парень
+0048: Zombie Dog
+0048-E: Зомби-Пёс
+0049: Lingering Spirit
+0049-E: Бродячий Дух
+004A: Mobile Grave
+004A-E: Мобильная Могила
+004B: Detached Leech
+004B-E: Пиявка
+004C: Spineless Lobster
+004C-E: Бесхребетный Лобстер
+004D: HUGE Pillbug
+004D-E: ОГРОМНАЯ Мокрица
+004E: Cheery Skeleton
+004E-E: Весёлый Скелет
+004F: Big Bro
+004F-E: Старший Брат
+0050: Barrel Man
+0050-E: Бочечник
+0051: Strawberry Slime
+0051-E: Клубничная Слизь
+0052: Arachnid!
+0052-E: Арахнид!
+0053: Violent Roach
+0053-E: Жестокий Таракан
+0054: Barrier Trio
+0054-E: Барьерное Трио
+0055: Ghost Armor
+0055-E: Броня-Призрак
+0056: Ghost Sword
+0056-E: Меч-Призрак
+0057: Ghost Shield
+0057-E: Щит-Призрак
+0058: Ghost Knight
+0058-E: Рыцарь-Призрак
+0059: Osohe Cape
+0059-E: Плащ Осохе
+005A: Rockin' Ghost
+005A-E: Призрак-Наездник
+005B: Pseudoor
+005B-E: Псевдверь
+005C: Eerie Smile
+005C-E: Страшная Улыбка
+005D: Dung Beetle
+005D-E: Навозный Жук
+005E: Great Antlion
+005E-E: Муравьиный Лев
+005F: Sara-Sara-Sahara
+005F-E: Сара-Сара-Сахара
+0060: Sand Lizard
+0060-E: Песчаный Ящер
+0061: Cactus Wolf
+0061-E: Кактусовый Волк
+0062: Gooey Goo
+0062-E: Жидкая Жижа
+0063: Cleocatra
+0063-E: Клеокотра
+0064: Li'l Big Bro
+0064-E: Большой Малый Брат
+0065: Zombieshroom
+0065-E: Зомбогриб
+0066: Stinky Ghost
+0066-E: Вонючий Призрак
+0067: Artsy Ghost
+0067-E: Призрак-Артист
+0068: Horsantula
+0068-E: Лошадерантул
+0069: Pigtunia
+0069-E: Свинтунья
+006A: Squawking Stick
+006A-E: Пищащая Палка
+006B: Putrid Moldyman
+006B-E: Гадкий Плесневик
+006C: Slitherhen
+006C-E: Курозмей
+006D: Whatever
+006D-E: Неважно
+006E: Dogfish
+006E-E: Рыбака
+006F: Cattlesnake
+006F-E: Змеерова
+0070: Einswine
+0070-E: Эйнсвин
+0071: Praying Mantis
+0071-E: Богомол
+0072: Ancient Dragonfly
+0072-E: Древняя Стрекоза
+0073: Filthy Attack Roach
+0073-E: Грязный Таракан
+0074: Muttshroom
+0074-E: Грибродяга
+0075: Mecha-Turtle
+0075-E: Меха-Черепаха
+0076: Bro Team
+0076-E: Бро-Команда
+0077: Batangutan
+0077-E: Мышенгутанг
+0078: Ostrelephant
+0078-E: Страуслон
+0079: Sky Titany
+0079-E: Небесная Титани
+007A: Monkalrus
+007A-E: Моржезьяна
+007B: Parental Kangashark
+007B-E: Кенгуркула
+007C: Li'l Miss Marshmallow
+007C-E: Мал. Мисс Зефирка
+007D: Almost Mecha-Lion
+007D-E: Почти Меха-Лев
+007E: Rhinocerocket
+007E-E: Носорогкета
+007F: Wound-Up Road Hog
+007F-E: Заводной Кабан
+0080: Metal Attack Roach
+0080-E: Металл. Таракан
+0081: Really Flying Mouse
+0081-E: Мышь-Суперлетунья
+0082: Short Circuit Zap!
+0082-E: Удар Током!
+0083: Minor Robot
+0083-E: Младший Робот
+0084: Love Walker
+0084-E: Любвеход
+0085: Eerie Smile
+0085-E: Страшная Улыбка
+0086: Atomic Power Robot
+0086-E: Атомный Робот
+0087: Nuclear Reactor Robot
+0087-E: Ядерный Робот
+0088: Negative Man
+0088-E: Человек-Негатив
+0089: Heftyhead
+0089-E: Большеголов
+008A: Nice Poser
+008A-E: Красивый Позёр
+008B: Big Spud Bug
+008B-E: Большой Жучара
+008C: Grated Yammonster
+008C-E: Тёртый Бататомонстр
+008D: Hippo Launcher
+008D-E: Бегемотатель
+008E: Steel Mechorilla
+008E-E: Стальная Мехорилла
+008F: Zombidillo
+008F-E: Зомброненосец
+0090: Fish Roe Man
+0090-E: Человек-Икра
+0091: PORKY 07
+0091-E: ПОРКИ 07
+0092: Return of Octobot
+0092-E: Возвращение Октобота
+0093: Carpet Monster
+0093-E: Ковромонстр
+0094: Recon Mech
+0094-E: Разведный Мех
+0095: Pigmask
+0095-E: Свиномаск
+0096: Zombie Lady
+0096-E: Зомби-Леди
+0097: Naughty Mushroom
+0097-E: Непослушный Гриб
+0098: Elder Batty
+0098-E: Мыша-Старейшина
+0099: Arachnid!!!!
+0099-E: Арахнид!!!!
+009A: Greedier Mouse
+009A-E: Более Жадная Мышь
+009B: Gently Weeping Guitar
+009B-E: Ласково Плач. Гитара
+009C: Beaten Drum
+009C-E: Битый Барабан
+009D: Reconstructed Mole
+009D-E: Реконстр. Крот
+009E: Reconstructed Lion
+009E-E: Реконстр. Лев
+009F: Wobbly Robot
+009F-E: Шаткий Робот
+00A0: Men's Room Sign
+00A0-E: Туалетный Знак (М)
+00A1: Scrapped Robot
+00A1-E: Разбитый Робот
+00A2: Forlorn Junk Heap
+00A2-E: Одинокая Куча Хлама
+00A3: Surprise Box
+00A3-E: Коробка-Сюрприз
+00A4: Battery Man
+00A4-E: Батарейник
+00A5: Screwloose
+00A5-E: Винтовик
+00A6: Cuddle Bomb
+00A6-E: Обнебомба
+00A7: K9000
+00A7-E: К9000
+00A8: Alkaline Man
+00A8-E: Энергоячейник
+00A9: PORKY 06
+00A9-E: ПОРКИ 06
+00AA: Pigmask Major
+00AA-E: Майор Свиномаск
+00AB: Pigmask Colonel
+00AB-E: Полковник Свиномаск
+00AC: Pigmask Captain
+00AC-E: Капитан Свиномаск
+00AD: Navy SQUEAL
+00AD-E: Морская Свинья
+00AE: Master Eddy
+00AE-E: Мастер Эдди
+00AF: Rock Lobster
+00AF-E: Каменный Лобстер
+00B0: Rooound Fish
+00B0-E: Круууглая Рыба
+00B1: Blue Balding Eagle
+00B1-E: Синеголовый Орлан
+00B2: Security Robot
+00B2-E: Робот-Охранник
+00B3: Unwelcome Gust
+00B3-E: Нежеланный Порыв
+00B4: PORKY 09
+00B4-E: ПОРКИ 09
+00B5: PORKY 10
+00B5-E: ПОРКИ 10
+00B6: Titanian
+00B6-E: Титаниан
+00B7: Upgraded Robot
+00B7-E: Улучшеный Робот
+00B8: Beanling
+00B8-E: Бобёнок
+00B9: Black Beanling
+00B9-E: Чёрный Бобенок
+00BA: Tiny Forest
+00BA-E: Крохотный Лес
+00BB: PORKY 04
+00BB-E: ПОРКИ 04
+00BC: PORKY 05
+00BC-E: ПОРКИ 06
+00BD: Masked Man
+00BD-E: Человек в Маске
+00BE: Masked Man
+00BE-E: Человек в Маске
+00BF: (EMPTY)
+00BF-E: (ЕMPTY)
+00C0: Pick
+00C0-E: Медиатор
+00C1: Antlion
+00C1-E: Муравьиный Лев
+00C2: Fierce Pork Trooper
+00C2-E: Злой Свин-Солдат
+00C3: Crab
+00C3-E: Краб
+00C4: Electric Catfish
+00C4-E: Электрический Сом
+00C5: Shimmy Zmizz
+00C5-E: Шимми Жмизз
+00C6: Magic
+00C6-E: Мэджик
+00C7: Duster
+00C7-E: Дастер
+00C8: Keyboard
+00C8-E: Клавиатура
+00C9: OJ
+00C9-E: ОДжей
+00CA: Robot
+00CA-E: Робот
+00CB: Dung Beetle
+00CB-E: Навозный Жук
+00CC: Tent Person
+00CC-E: Палаточник
+00CD: Snow Bunny
+00CD-E: Снежный Кролик
+00CE: Clayman
+00CE-E: Глиняник
+00CF: Vapor
+00CF-E: Вэйпор
+00D0: Rope Snake
+00D0-E: Верёвочный Змей
+00D1: Rope Snake
+00D1-E: Верёвочный Змей
+00D2: Aeolia's Table
+00D2-E: Стол Аеолии
+00D3: Straw
+00D3-E: Сено
+00D4: Vapor 2
+00D4-E: Вэйпор 2
+00D5: Mini Elevator
+00D5-E: Мини-Лифт
+00D6: Drago
+00D6-E: Драго
+00D7: Fierce Pork Trooper
+00D7-E: Злой Свин-Солдат
+00D8: Green Train
+00D8-E: Зелёный Поезд
+00D9: Pump Drago
+00D9-E: Драго-Насос
+00DA: Three Amigos
+00DA-E: Три Амиго
+00DB: Flower
+00DB-E: Цветок
+00DC: Rope Ladder
+00DC-E: Веревочная лестница
+00DD: Flame 3
+00DD-E: Огонь 3
+00DE: Flag
+00DE-E: Флаг
+00DF: Ropeway
+00DF-E: Верёвка
+00E0: (EMPTY)
+00E0-E: (ЕMPTY)
+00E1: Piece
+00E1-E: Кусок
+00E2: Flame 1
+00E2-E: Огонь 1
+00E3: Lotus Root
+00E3-E: Корень Лотоса
+00E4: Unworked Clay
+00E4-E: Сырая Глина
+00E5: Explosion
+00E5-E: Взрыв
+00E6: Smoke
+00E6-E: Дым
+00E7: Statue Head
+00E7-E: Голова Статуи
+00E8: Carousel
+00E8-E: Карусель
+00E9: Nippo's Dresser
+00E9-E: Гардероб Ниппо
+00EA: Firefly Swarm
+00EA-E: Рой Огнемух
+00EB: Hinawa's Cloth
+00EB-E: Ткань Хинавы
+00EC: Electric Catfish
+00EC-E: Электрический Сом
+00ED: Broom
+00ED-E: Метла
+00EE: Fish
+00EE-E: Рыба
+00EF: Sea Urchin
+00EF-E: Морской Ёж
+00F0: Train
+00F0-E: Поезд
+00F1: Sign
+00F1-E: Табличка
+00F2: Sign
+00F2-E: Табличка
+00F3: (EMPTY)
+00F3-E: (EMPTY)
+00F4: Portrait
+00F4-E: Портрет
+00F5: Friendly Ghost
+00F5-E: Дружелюбный Призрак
+00F6: Trash Can
+00F6-E: Мусорка
+00F7: Steel Ball
+00F7-E: Стальной Шар
+00F8: Egg of Light
+00F8-E: Яйцо Света
+00F9: Chestnut
+00F9-E: Каштан
+00FA: Rockin' Ghost
+00FA-E: Призрак-Наездник
+00FB: Candle
+00FB-E: Свеча
+00FC: Mouse
+00FC-E: Мышь
+00FD: Energy Machine
+00FD-E: Машина Энергии
+00FE: Light Blade
+00FE-E: Меч Света
+00FF: Wine Glass
+00FF-E: Бокал Вина
+0100: Rope Snake
+0100-E: Верёвочный Змей
+0101: Stinkbug
+0101-E: Жук-Вонючка
+0102: Garbage Truck
+0102-E: Мусорный Грузовик
+0103: Smoke
+0103-E: Дым
+0104: Aeolia
+0104-E: Аеолия
+0105: Doria
+0105-E: Дория
+0106: Magnifier
+0106-E: Увеличитель
+0107: Text Balloon
+0107-E: Шар с текстом
+0108: Sign
+0108-E: Табличка
+0109: NO Stone
+0109-E: НЕТ Камень
+010A: Kumatora
+010A-E: Куматора
+010B: Stone Fragment
+010B-E: Фрагмент Камня
+010C: That Car
+010C-E: Та Машина
+010D: Black Drago
+010D-E: Чёрный Драго
+010E: Mole Cricket
+010E-E: Медведка
+010F: Lightning
+010F-E: Молния
+0110: Mother Porkship
+0110-E: Главный Свинкорабль
+0111: (EMPTY)
+0111-E: (ЕMPTY)
+0112: Lydia
+0112-E: Лидия
+0113: Mixolydia
+0113-E: Миксолидия
+0114: Hinawa
+0114-E: Хинава
+0115: Frozen Drago
+0115-E: Замороженый Драго
+0116: Porky
+0116-E: Порки
+0117: Thunder
+0117-E: Гром
+0118: Child Mouse
+0118-E: Мышёнок
+0119: Dr. Andonuts
+0119-E: Д-р Эндонатс 
+011A: Osohe Castle
+011A-E: Замок Осохе
+011B: Mother Porkship
+011B-E: Главный Свинкорабль
+011C: Volcano
+011C-E: Вулкан
+011D: Explosion FX
+011D-E: Эффект Взрыва
+011E: Caption
+011E-E: Название
+011F: Distant Porkship
+011F-E: Далёкий Свинкорабль
+0120: Tiles
+0120-E: Тайлы
+0121: (EMPTY)
+0121-E: (ЕMPTY)
+0122: Water Column
+0122-E: Водная Колонна
+0123: Distant Porkship
+0123-E: Далёкий Свинкорабль
+0124: NO Rock Smoke
+0124-E: НЕТ Камнедыма
+0125: Smoke
+0125-E: Дым
+0126: Sapling
+0126-E: Саженец
+0127: (EMPTY)
+0127-E: (ЕMPTY)
+0128: (EMPTY)
+0128-E: (ЕMPTY)
+0129: (EMPTY)
+0129-E: (ЕMPTY)
+012A: (EMPTY)
+012A-E: (ЕMPTY)
+012B: (EMPTY)
+012B-E: (ЕMPTY)
+012C: Grave
+012C-E: Могила
+012D: Phrygia
+012D-E: Фригия
+012E: Cube
+012E-EКуб: 
+012F: Iron Pencil
+012F-E: Железный Карандаш
+0130: Caribou
+0130-E: Карибу
+0131: Ionia
+0131-E: Иония
+0132: Dryer Drago Wind
+0132-E: Ветер Драго-Сушильника
+0133: Mushroom
+0133-E: Гриб
+0134: Bridge
+0134-E: Мост
+0135: Halluc. Blue Tent
+0135-E: Галлюц. Синий Тэнт
+0136: Wooden Table Horse 1
+0136-E: Дерев. Стол. Лошадь 1
+0137: Wooden Table Horse 2
+0137-E: Дерев. Стол. Лошадь 2
+0138: Wooden Table Horse 3
+0138-E: Дерев. Стол. Лошадь 3
+0139: Boat on Mind's 100F
+0139-E: Лодка 100ЭТ Разума
+013A: Mini Porky-Bot
+013A-E: Мини Порки-Бот
+013B: Sign
+013B-E: Знак
+013C: Handcart
+013C-E: Телега
+013D: Game Balloon
+013D-E: Игровой Шар
+013F: Octopus Ink
+013F-E: Чернила
+0140: Dragon Fireworks
+0140-E: Феиерверк Дракона
+0141: Skyrocket
+0141-E: Взлетать
+0142: Police Car
+0142-E: Полицейская Машина
+0143: Automobile
+0143-E: Автомобиль
+0144: Titiboo Attic Kotatsu
+0144-E: Котатсу Чердака Титибу
+0145: Wooden MOTHER 3 Title
+0145-E: Дерев. Титул MOTHЕR 3
+0146: Overworld
+0146-E: Верхний Мир
+0147: Underworld
+0147-E: Нижний Мир
+0148: Men's Room Door
+0148-E: Дверь в М. Туалет
+0149: Aeolia & Sofa
+0149-E: Аеолия и Диван

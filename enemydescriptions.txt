@@ -1,0 +1,769 @@
+// Enemy descriptions can be any length
+
+00:[END]
+00-E:[END]
+
+01:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+01-E:01-E:[BREAK]Выс: 100см Вес:100Кг[BREAK]Личность: Жестокий[BREAK]Обитание: Горы[BREAK]Опыт: 12345[END]
+
+02:[BREAK][BREAK]Someone has modified this[BREAK]gentle reindeer to make it[BREAK]aggressive.[END]
+02-E:[BREAK][BREAK]Кто-то сделал этого[BREAK]спокойного оленя[BREAK]агрессивным.[END]
+
+03:[BREAK]The ghost of a musician[BREAK]who died before finishing[BREAK]his symphony. Beware of[BREAK]his captivating melodies.[END]
+03-E:[BREAK]Призрак музыканта,[BREAK]не дописавшего свою[BREAK]симфонию. Берегитесь его[BREAK]захватывающих мелодий[END]
+
+04:An enormous snake that[BREAK]rules the Osohe Castle[BREAK]basement. Disturb its[BREAK]sleep and it will tidal wave[BREAK]you goodbye.[END]
+04-E:[BREAK]Огромный змей, который[BREAK]живет в подвале Замка[BREAK]Осохе. Если его потревожить,[BREAK]то он вас запросто утопит.[END]
+
+05:[BREAK][BREAK]A lump of clay brought to[BREAK]life. It works as hard as it[BREAK]looks sad.[END]
+05-E:[BREAK][BREAK]Оживший кусок глины.[BREAK]Работает усердно[BREAK]и грустно.[END]
+
+06:[BREAK]This vicious, mechanized[BREAK]monstrosity was once a[BREAK]friendly animal known as a[BREAK]Drago.[END]
+06-E:[BREAK]Этот жестокий мех.[BREAK]монстр однажды был[BREAK]дружелюбным животным[BREAK]известным как Драго.[END]
+
+07:[BREAK]This Pigmask weapon[BREAK]raises an awful racket and[BREAK]belches black exhaust[BREAK]fumes without remorse.[END]
+07-E:[BREAK]Это орудие свиномасков[BREAK]громко шумит и[BREAK]выделяет едкий дым[BREAK]не думая об окружении.[END]
+
+08:[BREAK]The generator robot of[BREAK]Thunder Tower. It uses[BREAK]paralyzing chop attacks[BREAK]as if to say, "Take that!"[END]
+08-E:[BREAK]Робот-генератор Грозовой[BREAK]Башни. Использует[BREAK]Парализующие удары[BREAK]как-бы говоря "Получай!"[END]
+
+09:[BREAK]Friend or foe? Even when[BREAK]flat broke and stepped on,[BREAK]this imitable bug is always[BREAK]optimistic.[END]
+09-E:[BREAK][BREAK]Друг или враг? Даже если[BREAK]придавлен, этот жучок[BREAK]всегда оптимистичен.[END]
+
+0A:[END]
+0A-E:[END]
+
+0B:[BREAK]No, this isn't a toothpaste[BREAK]mascot. This guy probably[BREAK]doesn't even know what[BREAK]he is, either.[END]
+0B-E:[BREAK]Нет, это не реклама[BREAK]зубной пасты. Этот парень[BREAK]сам вряд ли знает,[BREAK]что он такое.[END]
+
+0C:[BREAK]Believe it or not, this is[BREAK]Porky in the flesh. He is[BREAK]simultaneously an old man[BREAK]and a young boy.[END]
+0C-E:[BREAK]Можете не верить, но[BREAK]это Порки во плоти.[BREAK]Он сразу и старик и юный[BREAK]мальчик.[END]
+
+0D:[BREAK][BREAK]Based on a dream Porky[BREAK]once had. N.K. stands for[BREAK]<Natural Killer>.[END]
+0D-E:[BREAK][BREAK]Сделано по одному из[BREAK]снов Порки. Н.К. значит[BREAK]<Натуральный Киллер>.[END]
+
+0E:[BREAK]What expressions lie[BREAK]hidden behind his mask?[BREAK]...And more importantly,[BREAK]who is he?[END]
+0E-E:[BREAK]Что за эмоции скрыты[BREAK]под его маской?[BREAK]...И более важно,[BREAK]кто он?[END]
+
+0F:So fierce-looking he's[BREAK]afraid of his own[BREAK]reflection. Takes good[BREAK]care of his men and is a[BREAK]huge DCMC fan.[END]
+0F-E:Такой страшный, что[BREAK]боится собственного[BREAK]отражения. Хорошо[BREAK]заботится о своих людях[BREAK]и обожает DCMC.[END]
+
+10:[BREAK]After tasting defeat, this[BREAK]soldier underwent intense[BREAK]training to power himself[BREAK]up.[END]
+10-E:[BREAK][BREAK]После провала, он много[BREAK]тренировался, чтобы[BREAK]стать намного сильнее.[END]
+
+11:[BREAK]A wooden bass whose[BREAK]time in the limelight is up.[BREAK]Holds a grudge against the[BREAK]new bass on the block.[END]
+11-E:[BREAK]Деревянная басс-гитара,[BREAK]чья слава закончилась.[BREAK]Обижен на новый басс[BREAK]группы DCMC.[END]
+
+12:[BREAK]Porky had a tantrum and[BREAK]made Dr. Andonuts and[BREAK]the Mr. Saturns create an[BREAK]Absolutely Safe Capsule.[END]
+12-E:[BREAK]Порки взбесился и[BREAK]заставил Д-ра Эндонатса[BREAK]и Г-нов Сатурнов сделать[BREAK]эту машину[END]
+
+13:[BREAK]These guys swarm down[BREAK]from the ceiling when they[BREAK]sense a person's body[BREAK]heat.[END]
+13-E:[BREAK][BREAK]Эти ребята падают с[BREAK]потолка когда чувствуют[BREAK]тепло тела человека.[END]
+
+14:[END]
+14-E:[END]
+
+15:[BREAK]A statue honoring Porky's[BREAK]greatness. In its right hand[BREAK]is a slingshot, and in its[BREAK]left is a comic book.[END]
+15-E:[BREAK]Статуя в честь Порки.[BREAK]Держит рогатку в правой[BREAK]руке, а в левой держит[BREAK]книгу комиксов.[END]
+
+16:[END]
+16-E:[END]
+
+17:[BREAK]Look out! Don't fall for[BREAK]New Fassad's new facade![BREAK]He's bigger and badder[BREAK]than ever![END]
+17-E:[BREAK]Не попадитесь на новый[BREAK]фасад Нового Фассада![BREAK]Он сильнее и мощнее[BREAK]чем когда-либо![END]
+
+18:[END]
+18-E:[END]
+
+19:[BREAK]This spirited musician[BREAK]can't control his tempo. In[BREAK]fact, his passion is just[BREAK]hitting a crescendo.[END]
+19-E:[BREAK]Этот музыкальный дух[BREAK]не может контролировать[BREAK]свой темп. Его увлечение[BREAK]всё растёт и растёт.[END]
+
+1A:[BREAK]Takes good care of Blue[BREAK]Balding Eagle chicks and[BREAK]burns with maternal wrath[BREAK]at anyone who approaches.[END]
+1A-E:[BREAK]Хорошо заботится о[BREAK]птенцах Орлана. Яростно[BREAK]горит при приближении[BREAK]кого угодно.[END]
+
+1B:[END]
+1B-E:[END]
+
+1C:[END]
+1C-E:[END]
+
+1D:Miraculously enough,[BREAK]Fassad has attained an[BREAK]even more powerful form.[BREAK]He may look funny, but he[BREAK]means serious business.[END]
+1D-E:Чудесным образом,[BREAK]Фассад обрёл ещё более[BREAK]сильную форму. Он[BREAK]может и смешной, но[BREAK]он серьёзен.[END]
+
+1E:[END]
+1E-E:[END]
+
+1F:[END]
+1F-E:[END]
+
+20:[BREAK]A mysterious energy form[BREAK]that powerfully resonates[BREAK]with the vibrations of the[BREAK]last Needle.[END]
+20-E:[BREAK]Таинственная энергия,[BREAK]резонирующая с[BREAK]вибрациями[BREAK]последней иглы.[END]
+
+21:[BREAK]This creature was[BREAK]combined with a leftover[BREAK]rocket from a failed space[BREAK]program.[END]
+21-E:[BREAK]Это создание было[BREAK]соединено с ракетой[BREAK]из(провальной)[BREAK]космической программы.[END]
+
+22:[BREAK]A robot programmed to[BREAK]terrorize Mr. Saturns with[BREAK]frightening words. Humans[BREAK]aren't scared, though.[END]
+22-E:[BREAK]Робот, терроризирующий[BREAK]Г-нов Сатурнов[BREAK]страшными вещами.[BREAK]Людей не пугает.[END]
+
+23:[BREAK]Stealing cheese, chewing[BREAK]power cords... This bad[BREAK]boy's done it all. Has a[BREAK]wife and seven kids.[END]
+23-E:[BREAK]Воровство сыра, жевание[BREAK]проводов... Этот[BREAK]плохиш творил всё. У него[BREAK]есть жена и 7 детей.[END]
+
+24:[BREAK]Lives off magma flowing[BREAK]from volcanos. Its blood[BREAK]reaches temperatures[BREAK]over 1500 degrees.[END]
+24-E:[BREAK]Живёт на вулканической[BREAK]магме. Их кровь[BREAK]достигает температур[BREAK]выше 1500 градусов.[END]
+
+25:Lions are already scary[BREAK]enough as it is, but[BREAK]combine one with a mech[BREAK]and it becomes terrifyingly[BREAK]cool.[END]
+25-E:[BREAK]Львы и так страшны,[BREAK]но скрестив его с[BREAK]мехом, вы получите[BREAK]жутко классную штуку.[END]
+
+26:[BREAK]This monster is a hybrid of[BREAK]a traffic barrier and a[BREAK]bloke-ade. What IS a[BREAK]bloke-ade, anyway?[END]
+26-E:[BREAK]Этот монстр - гибрид[BREAK]дорожного барьера и[BREAK]блока-ады. А ЧТО вообще[BREAK]такое блок-ады?[END]
+
+27:[BREAK]A hurried, impetuous,[BREAK]restless mushroom that is[BREAK]also hasty, impatient, and[BREAK]completely frenzied.[END]
+27-E:[BREAK]Спешащий, нетерпеливый,[BREAK]беспокойный гриб, он[BREAK]также быстр, ловок[BREAK]и безумен.[END]
+
+28:[BREAK]A strange sparrow-stick[BREAK]combination that also[BREAK]seems to have a bomb[BREAK]planted inside it.[END]
+28-E:[BREAK]Странная комбинация[BREAK]воробья и палки[BREAK]в которой, похоже,[BREAK]заложена бомба.[END]
+
+29:[BREAK]This unbalanced Chimera is[BREAK]half legendary giant fish,[BREAK]the <Master of the Sea>,[BREAK]and half plain ol' dog.[END]
+29-E:Эта несбалансированная[BREAK]химера - наполовину[BREAK]легендарная рыба[BREAK]<Хозяин Морей> и на[BREAK]половину простой пёсель.[END]
+
+2A:[BREAK]A bat native to the[BREAK]Sunshine Forest. It loves[BREAK]ambiguity and tends to be[BREAK]wishy-washy.[END]
+2A-E:[BREAK]Летучая мышь,[BREAK]живущая в Лесу Солнца.[BREAK]Любит сомнения и[BREAK]нерешительность.[END]
+
+2B:[BREAK]This mouse squirrels away[BREAK]anything and everything,[BREAK]even burying its worries[BREAK]and responsibilities.[END]
+2B-E:[BREAK][BREAK]Эта мышь запасает всё[BREAK]и вся. Даже свои волнения[BREAK]и ответственности.[END]
+
+2C:[BREAK]This monster is a small[BREAK]bug fused with a cheap[BREAK]lighter. It's doomed to a[BREAK]one-time use.[END]
+2C-E:[BREAK]Этот монстр это смесь[BREAK]маленького жука и[BREAK]дешевой зажигалки.[BREAK]Точно одноразовый.[END]
+
+2D:Desperate to be embraced[BREAK]as sweet and delicious.[BREAK]Prefers to veg out[BREAK]underground as much as[BREAK]possible.[END]
+2D-E:[BREAK]Отчаяно хочет быть[BREAK]вкусным и сладким.[BREAK]Предпочитает дрыхнуть[BREAK]под землёй.[END]
+
+2E:[BREAK]The buzzing wings on its[BREAK]back were probably[BREAK]transplanted from a giant[BREAK]insect.[END]
+2E-E:[BREAK][BREAK]Крылья скорее всего [BREAK]были пересажены[BREAK]от гигантского насекомого.[END]
+
+2F:Robots based off of Porky[BREAK]when he was a child. Made[BREAK]in a set of 11 for such[BREAK]purposes as forming a[BREAK]soccer team.[END]
+2F-E:Роботы, созданые по[BREAK]образу и подобию Порки в[BREAK]детстве. Их 11, если[BREAK]понадобится, к примеру,[BREAK]футбольная команда.[END]
+
+30:[BREAK]The look on his face[BREAK]growls, <Calm boars don't[BREAK]deserve to be called[BREAK]boars!>[END]
+30-E:[BREAK]Взгляд на его лице[BREAK]так и говорит, <Спокойные[BREAK]кабаны не заслуживают[BREAK]зваться кабанами!>[END]
+
+31:[BREAK]Compared to snakes that[BREAK]always bite, it doesn't bite[BREAK]as much. But it does bite,[BREAK]so be careful anyway.[END]
+31-E:[BREAK]В сравнении со змеями,[BREAK]которые всегда кусают,[BREAK]эта не часто кусает, но[BREAK]лучше быть осторожным.[END]
+
+32:[BREAK]This little guy wants to be[BREAK]a sweet dumpling, but he's[BREAK]made of soot instead. He'd[BREAK]make a terrible snack.[END]
+32-E:[BREAK]Этот малый лишь хочет[BREAK]быть вкусным, но он[BREAK]сделан из сажи. Из него[BREAK]выйдет ужасная закуска.[END]
+
+33:Sweet, piping-hot, and[BREAK]yummier than a roasted[BREAK]chestnut, but still a[BREAK]monster. Would probably[BREAK]go well with butter.[END]
+33-E:Сладкий, горячий и[BREAK]очень вкусный. Но это[BREAK]всё таки монстр.[BREAK]Наверное был бы неплох[BREAK]с маслом.[END]
+
+34:[BREAK]Kindly heals people who[BREAK]are hurt, whether they like[BREAK]it or not. But its name is a[BREAK]little iffy.[END]
+34-E:[BREAK][BREAK]Со всей доброты лечит[BREAK]раненых людей, даже[BREAK]если они не хотят.[END]
+
+35:Eastward one day and[BREAK]westward the next, it[BREAK]goes with the tidal flow[BREAK]like a plastic bag in the[BREAK]wind.[END]
+35-E:[BREAK]С востока на запад,[BREAK]и обратно. Плавает по[BREAK]волнам как пластиковый[BREAK]пакет на ветру.[END]
+
+36:[BREAK]Fighting this metal monkey[BREAK]will result in quite the[BREAK]experience. Just keep that[BREAK]in mind.[END]
+36-E:[BREAK]Сразив Металлическую[BREAK]обезьяну, вы получите[BREAK]тот ещё опыт. Просто[BREAK]помните об этом.[END]
+
+37:[BREAK]When it doesn't move, it[BREAK]looks just like a rock.[BREAK]When it does move, it still[BREAK]looks like a rock.[END]
+37-E:[BREAK]Не двигаясь, становится[BREAK]идентичен камню.[BREAK]А при движении, всё ещё[BREAK]идентичен камню.[END]
+
+38:These gather in groups to[BREAK]protect themselves from[BREAK]enemies. They'll proudly[BREAK]attack anything that[BREAK]appears to be weaker.[END]
+38-E:Они собираются в группы[BREAK]для защиты от врагов.[BREAK]Гордо атакуют всё,[BREAK]что кажется им слабее[BREAK]их самих.[END]
+
+39:[BREAK]He recently got into the[BREAK]unpredictable sport of[BREAK]Snowboard Cross. Get in[BREAK]his way and he'll get mad.[END]
+39-E:[BREAK]Решил заняться[BREAK]сноубордингом.[BREAK]Если ему помешать, он[BREAK]разозлится.[END]
+
+3A:[BREAK]A cold-blooded mammal[BREAK]that prides itself in its[BREAK]frozen-solid tail capable of[BREAK]hammering nails.[END]
+3A-E:[BREAK]Хладнокровное животное,[BREAK]гордящееся ледяным[BREAK]хвостом, способным[BREAK]забивать гвозди[END]
+
+3B:[BREAK]Has a viscous personality.[BREAK]It uses hypnosis, but it's[BREAK]much like a normal slug in[BREAK]that it hates saltwater.[END]
+3B-E:[BREAK]Имеет вязкую личность.[BREAK]Пользуется гипнозом, но[BREAK]как и любой слизень,[BREAK]ненавидит соленую воду.[END]
+
+3C:[BREAK]Don't just sit there and[BREAK]wonder why a rock would[BREAK]attack you. That would be[BREAK]dangerous. [END]
+3C-E:[BREAK][BREAK]Хватит сидеть и думать[BREAK]почему камень атакует.[BREAK]Это опасно.[END]
+
+3D:[BREAK]Often seen wandering[BREAK]around picnic sites. The[BREAK]most normal member of[BREAK]<fungus mobilus>.[END]
+3D-E:[BREAK]Часто бродит возле[BREAK]пикников. Самый[BREAK]нормальный член[BREAK]<фунгус мобилус>.[END]
+
+3E:[END]
+3E-E:[END]
+
+3F:[BREAK]Spins its head in a circle[BREAK]when sizing up an enemy.[BREAK]Has titanium skin[BREAK]unsuitable for handbags.[END]
+3F-E:[BREAK]Оценивая врага, крутит[BREAK]головой. Имеет титановую[BREAK]кожу, не подходящую[BREAK]для сумок.[END]
+
+40:[BREAK]A mischievous prankster.[BREAK]In some regions, the males[BREAK]are referred to as Naughty[BREAK]Moles.[END]
+40-E:[BREAK]Тот ещё приколист.[BREAK]В некоторых регионах,[BREAK]самцов называют[BREAK]<Непослушный Крот>.[END]
+
+41:[BREAK]Burrows into the ground[BREAK]using the drill on its nose.[BREAK]Has a red light on its head[BREAK]for the heck of it.[END]
+41-E:[BREAK]Копает землю дрелью[BREAK]на своём носу.[BREAK]Имеет красный огонёк[BREAK]просто для прикола.[END]
+
+42:[BREAK]Prefers to eat meat raw.[BREAK]It's recently taken a liking[BREAK]to dried meat, too. Also[BREAK]loves to eat vegetables.[END]
+42-E:[BREAK]Предпочитает сырое мясо.[BREAK]Но недавно начала[BREAK]кушать вяленое. Также[BREAK]любит овощи.[END]
+
+43:[BREAK]It got sick of being a plant,[BREAK]so it gave walking a try.[BREAK]There's no going back[BREAK]now![END]
+43-E:[BREAK][BREAK]Устал быть растением,[BREAK]поэтому попробовал идти.[BREAK]Теперь пути назад нет![END]
+
+44:[BREAK][BREAK]A very orthodox Titany,[BREAK]famous for its personality[BREAK]but not for its voice.[END]
+44-E:[BREAK][BREAK]Обыкновенная Титани,[BREAK]известная характером,[BREAK]но не голосом.[END]
+
+45:[BREAK]This Snowcap Mountain[BREAK]confection is actually a[BREAK]monster. Tends to melt[BREAK]during heated battles.[END]
+45-E:[BREAK][BREAK]Эта сладость со снежной[BREAK]горы - монстр. Часто[BREAK]тает во время жарких боёв.[END]
+
+46:The Lady of Lava?[BREAK]The Missus of Magma?[BREAK]Someone please explain[BREAK]just who or what she's[BREAK]supposed to be.[END]
+46-E:[BREAK]Леди Лавы?[BREAK]Дева Магмы?[BREAK]Объясните пожалуйста[BREAK]что она вообще такое.[END]
+
+47:Its overwhelmingly pent-up[BREAK]anger explodes with a[BREAK]bang. Pyreflies make their[BREAK]home in this guy's cranial[BREAK]crater.[END]
+47-E:[BREAK]Яростно извергает лаву[BREAK]и Пламемух, которые[BREAK]часто проживают у него[BREAK]в головном кратере.[END]
+
+48:Not even death can stop[BREAK]him from wandering the[BREAK]graveyard. He attacks[BREAK]people as he seeks new[BREAK]life.[END]
+48-E:Даже смерть не может[BREAK]его остановить от[BREAK]прогулок по кладбищу.[BREAK]Атакует людей в поисках[BREAK]новой жизни.[END]
+
+49:[BREAK]It chews on its own bones[BREAK]in lieu of a snack. Its most[BREAK]charming point is its[BREAK]drooping eyeball.[END]
+49-E:[BREAK]Жуёт свои кости когда[BREAK]нечего есть. Его самая[BREAK]прикольная часть -[BREAK]обвислый глаз.[END]
+
+4A:[BREAK][BREAK]Endlessly lingers around[BREAK]graveyards all alone, its[BREAK]flames burning with regret.[END]
+4A-E:[BREAK][BREAK]Бесконечно летает у[BREAK]кладбищ в одиночестве,[BREAK]горя огнями сожаления.[END]
+
+4B:[BREAK]Wouldn't it be easier to[BREAK]visit a grave if the grave[BREAK]came to you? No, wait, it[BREAK]would just be creepy.[END]
+4B-E:[BREAK]Было бы проще посетить[BREAK]могилу, если бы она сама[BREAK]пришла к вам? Нет, стоп,[BREAK]это было бы страшно.[END]
+
+4C:[BREAK]Once it sticks, it won't[BREAK]come off easily. Even if[BREAK]you do manage to pull it[BREAK]off, the residue is gross.[END]
+4C-E:[BREAK]Если прилипнет, то[BREAK]отодрать будет сложно.[BREAK]Если и получится, то[BREAK]останется гадкий остаток.[END]
+
+4D:[BREAK]An overgrown crawfish.[BREAK]Those big pincers are so[BREAK]handy, they could shear a[BREAK]sheep near-bald.[END]
+4D-E:[BREAK]Огромное ракообразное.[BREAK]Такими большими[BREAK]клешнями можно легко[BREAK]остричь овцу.[END]
+
+4E:[BREAK]So big, it needs capital[BREAK]letters. When it rolls into a[BREAK]ball, its shape just begs[BREAK]for it to be dribbled.[END]
+4E-E:[BREAK]Такая большая, что[BREAK]требует заглавные буквы.[BREAK]Так и хочется её пнуть[BREAK]когда сворачивается.[END]
+
+4F:Gets cranky once it's[BREAK]grown tired of acting[BREAK]upbeat, even cursing at[BREAK]the rattling of its own dry[BREAK]bones.[END]
+4F-E:Начинает Бесится когда[BREAK]устаёт от веселья.[BREAK]Так сильно, что ругается[BREAK]на хруст собственных[BREAK]костей.[END]
+
+50:[BREAK]He and Li'l Big Bro can't[BREAK]decide on their names. If[BREAK]it's any help, this little guy[BREAK]is the older bro.[END]
+50-E:[BREAK]Он и Малый Старший[BREAK]Брат не могут определить[BREAK]свои имена. Этот малый[BREAK]это старший брат.[END]
+
+51:[BREAK]Spends all day sniffing a[BREAK]faint odor lingering inside[BREAK]the barrel. Not a bad guy[BREAK]at heart.[END]
+51-E:[BREAK][BREAK]Весь день нюхает запах[BREAK]из бочки. Не плохой[BREAK]парень по сути.[END]
+
+52:[BREAK][BREAK]Caution. This is not[BREAK]strawberry jam. Please do[BREAK]not spread it on bread.[END]
+52-E:[BREAK][BREAK]Осторожно, это не[BREAK]варенье. Не мажьте его[BREAK]на хлеб.[END]
+
+53:There's nothing special[BREAK]about this spider at all. It[BREAK]isn't poisonous, and it[BREAK]doesn't have any medicinal[BREAK]benefits whatsoever.[END]
+53-E:[BREAK]Самый обыкновенный[BREAK]паук. Он не ядовит[BREAK]и не используется в[BREAK]медицине.[END]
+
+54:[BREAK]If butterflies had no wings,[BREAK]they'd be butterwalkers.[BREAK]Without handsome horns,[BREAK]this guy is a... thing.[END]
+54-E:[BREAK]Если бы у бабочек не было[BREAK]крыльев, они бы были[BREAK]червями. Без больших[BREAK]рогов это просто... что-то.[END]
+
+55:[BREAK]One of the Magypsies[BREAK]crafted these monsters to[BREAK]protect something very[BREAK]important.[END]
+55-E:[BREAK][BREAK]Одна из Магипси сделала[BREAK]этох монстров для[BREAK]защиты чего-то важного.[END]
+
+56:[BREAK]Protects its flesh and[BREAK]bones with steel armor.[BREAK]Never mind that it doesn't[BREAK]have any flesh or bones.[END]
+56-E:[BREAK]Защищает плоть и[BREAK]кости стальной броней,[BREAK]не смотря на то, что[BREAK]у него нету плоти и костей.[END]
+
+57:[BREAK]Appears to have a history[BREAK]of killing. Too heavy to be[BREAK]handled by a normal[BREAK]person.[END]
+57-E:[BREAK][BREAK]Имеет историю убийств.[BREAK]Слишком тяжёлый для[BREAK]нормального человека.[END]
+
+58:[BREAK]Appears to be covered in[BREAK]scars of glory. Too heavy[BREAK]to be lifted by a normal[BREAK]person.[END]
+58-E:[BREAK][BREAK]Покрыт шрамами битвы.[BREAK]Слишком тяжёлый для[BREAK]нормального человека.[END]
+
+59:[BREAK]Once the empty-handed[BREAK]armor gets a hold of its[BREAK]sword and shield... terrible[BREAK]things will happen.[END]
+59-E:[BREAK]Когда безоружный[BREAK]рыцарь заберёт свои[BREAK]меч и щит... произойдут[BREAK]ужасные вещи.[END]
+
+5A:[BREAK][BREAK]This cape flaps gallantly in[BREAK]the breeze. It's nihilistic,[BREAK]obnoxious, and totally cool.[END]
+5A-E:[BREAK][BREAK]Этот плащ летает на ветру.[BREAK]Он нигилист, неприятен[BREAK]и очень крут.[END]
+
+5B:[BREAK]Hasn't noticed that its[BREAK]master is long gone, and[BREAK]continues to bear his[BREAK]weight on its back.[END]
+5B-E:[BREAK][BREAK]Не понимает, что его[BREAK]хозяин давно погиб, но[BREAK]продолжает качаться.[END]
+
+5C:No matter how long it[BREAK]takes, this door anxiously[BREAK]waits for someone to open[BREAK]it. It's been waiting for[BREAK]years now.[END]
+5C-E:[BREAK]Сколько бы не прошло[BREAK]времени, эта дверь ждёт[BREAK]пока её откроют.[BREAK]Она всё ждёт и ждёт.[END]
+
+5D:[BREAK][BREAK]What you see isn't always[BREAK]what you get. This eerie[BREAK]grin doesn't actually exist.[END]
+5D-E:[BREAK][BREAK]То что видно не всегда[BREAK]реально. Этой улыбки[BREAK]не существует.[END]
+
+5E:[BREAK]Its favorite dung is that of[BREAK]the Cactus Wolf, but[BREAK]usually it just makes do[BREAK]with Sand Lizard dung.[END]
+5E-E:[BREAK]Обожает навоз[BREAK]Кактусового Волка, но[BREAK]обычно просто собирает[BREAK]навоз Песчаных Ящеров.[END]
+
+5F:[BREAK]Digs a hole and waits for[BREAK]ants to fall inside. Doesn't[BREAK]mind if humans happen to[BREAK]fall in instead.[END]
+5F-E:[BREAK][BREAK]Выкапывает нору и ждёт[BREAK]муравьёв, но не против[BREAK]если люди тоже попадут.[END]
+
+60:[BREAK]Flies all around the desert[BREAK]with its chin chattering.[BREAK]Makes its opponents feel[BREAK]foolish.[END]
+60-E:[BREAK][BREAK][BREAK]Летает по пустыне и[BREAK]трещит, дурача врагов.[END]
+
+61:[BREAK]Dung Beetles clean up[BREAK]their messes. In return,[BREAK]they eat the Dung Beetles.[BREAK]Not exactly a fair trade.[END]
+61-E:[BREAK]Навозные Жуки убирают[BREAK]за ними навоз.[BREAK]В ответ Они съедают их.[BREAK]Не особо справедливо.[END]
+
+62:[BREAK]The Cactus Wolf has a[BREAK]Wolf Cactus attached[BREAK]firmly to its forehead. The[BREAK]two get along quite well.[END]
+62-E:[BREAK][BREAK]У Кактусового Волка[BREAK]Волчий Кактус на лбу.[BREAK]Они очень дружные.[END]
+
+63:[BREAK]If you rub your eyes after[BREAK]touching this guy, your[BREAK]legs will turn to goo. Be[BREAK]sure to wash your hands.[END]
+63-E:[BREAK]Если протереть глаза[BREAK]после прикосновений к[BREAK]этой штуке, ваши ноги[BREAK]растают. Мойте руки.[END]
+
+64:[BREAK]It looks like a mummified[BREAK]cat, but it's not a cat at[BREAK]all. It's something entirely[BREAK]different altogether.[END]
+64-E:[BREAK][BREAK]Выглядит как мумия[BREAK]кота, но это вовсе не[BREAK]кот. Это что-то другое.[END]
+
+65:[BREAK]Adjective-wise, he's[BREAK]caught between his size[BREAK]and his age. It's all very[BREAK]confusing.[END]
+65-E:[BREAK]Очень запутан из-за[BREAK]прилагательных[BREAK]возраста и размера.[BREAK]Этот - Младший брат[END]
+
+66:Recently discovered on[BREAK]Tanetane Island. It's[BREAK]usually rotten, and[BREAK]attracts its food by[BREAK]dancing.[END]
+66-E:[BREAK]Обитает на острове[BREAK]Танэтанэ. Обычно[BREAK]испорченый. Привлекает[BREAK]еду танцем.[END]
+
+67:[BREAK]Some ghosts in Osohe[BREAK]Castle are understanding[BREAK]and kindhearted, but these[BREAK]ones are plain ol' mean.[END]
+67-E:[BREAK]Некоторые духи в Замке[BREAK]Осохе добрые и[BREAK]приятные, но эти просто[BREAK]злые.[END]
+
+68:[BREAK]Art is dead! Or so it[BREAK]declares, but there[BREAK]doesn't seem to be any[BREAK]evidence of this.[END]
+68-E:[BREAK][BREAK]Заявляет, что искусство[BREAK]мертво, но этому[BREAK]доказательств нет.[END]
+
+69:[BREAK]A drop kick from any one[BREAK]of its eight legs is intense.[BREAK]Its third leg from the right[BREAK]is World Cup class.[END]
+69-E:[BREAK]Пинок даже 1 из ног этого[BREAK]существа очень мощный.[BREAK]Третья нога справа -[BREAK]чемпион по футболу.[END]
+
+6A:[BREAK]This piggy plant snorts and[BREAK]blooms from spring to fall.[BREAK]It disperses pollen that[BREAK]causes watery eyes.[END]
+6A-E:[BREAK]Это свинское растение[BREAK]цветёт с весны до осени.[BREAK]Распыляет пыльцу,[BREAK]от которой текут слёзы.[END]
+
+6B:[BREAK]An unthinkable blend of a[BREAK]bird and a stick. It chirps[BREAK]and beckons for other[BREAK]animals.[END]
+6B-E:[BREAK][BREAK]Немыслимая смесь птицы[BREAK]и палки. Пищит, призывая[BREAK]других животных.[END]
+
+6C:[BREAK]Clean the mold off of this[BREAK]guy and there won't be[BREAK]anything left. In other[BREAK]words, he's a pile of mold.[END]
+6C-E:[BREAK]Если его почистить,[BREAK]то ничего не останется.[BREAK]Этот парень - куча[BREAK]плесени.[END]
+
+6D:This creature is greatly[BREAK]troubled whenever it sees[BREAK]an egg. Should it warm it[BREAK]or swallow it? It can't[BREAK]make up its mind.[END]
+6D-E:[BREAK]Это существо очень[BREAK]волнуется при виде яйца.[BREAK]съесть его, или согреть?[BREAK]Оно не может решить.[END]
+
+6E:A Chimera that was[BREAK]thrown together with[BREAK]whatever was handy.[BREAK]Some say it turned out[BREAK]better that way.[END]
+6E-E:[BREAK]Химера, сделаная из[BREAK] всего, что было под[BREAK]рукой. Вышло даже лучше,[BREAK]чем планировалось.[END]
+
+6F:Startling when it suddenly[BREAK]jumps out from the lake.[BREAK]Its talents include[BREAK]underwater sit and[BREAK]underwater shake. [END]
+6F-E:[BREAK]Пугает людей прыгая[BREAK]из озера. Умеет[BREAK]подводно сидеть и[BREAK]подводно дать лапу.[END]
+
+70:[BREAK]Even the creators of this[BREAK]creature are too afraid to[BREAK]approach it. Stay out of its[BREAK]way, for your own good.[END]
+70-E:[BREAK]Даже создатели этого[BREAK]существа боятся к нему[BREAK]подойти. Лучше держаться[BREAK]как можно дальше.[END]
+
+71:[BREAK][BREAK]A piggish creature with a[BREAK]primate-ish brain. It uses[BREAK]PSI, so don't take it lightly.[END]
+71-E:[BREAK][BREAK]Свинка с мозгом примата.[BREAK]Умеет использовать[BREAK]ПСИ, так что осторожнее.[END]
+
+72:[BREAK]Its aggressive pose is so[BREAK]intimidating, it makes you[BREAK]grateful that it isn't[BREAK]enormous in size.[END]
+72-E:[BREAK][BREAK]Его агрессивная поза[BREAK]такая страшная. Хорошо[BREAK]что он не громадный.[END]
+
+73:Its dragon-like appearance[BREAK]protects it from enemies.[BREAK]Also somewhat like a[BREAK]dragon in that it breathes[BREAK]fire.[END]
+73-E:Внешне похож на дракона,[BREAK]что защищает его от[BREAK]врагов. Также похож на[BREAK]дракона тем, что[BREAK]дышит огнём.[END]
+
+74:[BREAK]The Violent Roach was[BREAK]awful, but this guy is[BREAK]bigger, quicker, greasier,[BREAK]and more energetic.[END]
+74-E:[BREAK]Жестокий таракан был[BREAK]ужасным, но этот[BREAK]больше, быстрее, грязнее[BREAK]и энергичнее.[END]
+
+75:[BREAK]A Chimera with a Ramblin'[BREAK]Mushroom on its head. In[BREAK]rare cases, its own spores[BREAK]will make it feel strange.[END]
+75-E:[BREAK]Химера с Бродячим[BREAK]грибом на голове. Иногда[BREAK]конфузится от своих[BREAK]собственных спор.[END]
+
+76:Even this provincial[BREAK]tortoise was built into a[BREAK]fighting machine, but it's[BREAK]still as slow in the head as[BREAK]ever.[END]
+76-E:[BREAK]Даже из черепашек были[BREAK]сделаны боевые машины,[BREAK]но она всё так-же[BREAK]медленна как обычно.[END]
+
+77:[BREAK]The Li'l Big Bro keeps his[BREAK]beloved Big Bro on his[BREAK]head. Great siblings, but[BREAK]just what ARE they?[END]
+77-E:[BREAK]Большой Младший брат[BREAK]держит Старшего брата[BREAK]на голове. Хорошие[BREAK]братья, но ЧТО они такое?[END]
+
+78:[BREAK]A strange creature whose[BREAK]wings are too weak for its[BREAK]heavy head. Watch out for[BREAK]its fleas.[END]
+78-E:[BREAK]Странное существо, чьи[BREAK]крылья слишком слабы[BREAK]для тяжелой головы.[BREAK]Берегитесь блох.[END]
+
+79:[BREAK]Is the long part its trunk[BREAK]or its neck? How does it[BREAK]bathe itself? An utterly[BREAK]mysterious Chimera.[END]
+79-E:[BREAK]Длинная часть - хобот[BREAK]или шея? Как оно моет[BREAK]себя? Таинственная[BREAK]Химера.[END]
+
+7A:[BREAK]The sillhouette of this[BREAK]Titany's stretched wings[BREAK]against the starry night[BREAK]sky is a sight to behold.[END]
+7A-E:[BREAK]Силует крыльев этой[BREAK]Титани на фоне звезд[BREAK]ночного неба - чудесное[BREAK]зрелище.[END]
+
+7B:Lets out a sad howl when[BREAK]it meets the Batangutan[BREAK]with its head on it.[BREAK]Occasionally picks fights,[BREAK]too.[END]
+7B-E:[BREAK]Грустно воет, когда[BREAK]находит Мышенгутанга[BREAK]со своей головой.[BREAK]Иногда дерётся.[END]
+
+7C:[BREAK]The parent's power comes[BREAK]from its child's support.[BREAK]Although an enemy, it's[BREAK]still quite admirable.[END]
+7C-E:[BREAK]Родитель находит силы[BREAK]в поддержке ребёнка.[BREAK]Как для врага, очень[BREAK]заботливые.[END]
+
+7D:[BREAK]A robot that takes care of[BREAK]its master. Cooks, cleans,[BREAK]does laundry, cleans out[BREAK]ears and trims nose hair.[END]
+7D-E:[BREAK]Робот, заботящийся о[BREAK]своём хозяине. Готовит,[BREAK]стирает, убирает[BREAK]и тому подобное.[END]
+
+7E:[BREAK]The only non-mechanical[BREAK]part is a portion of its[BREAK]face. Only eats raw meat[BREAK]soaked in machine oil.[END]
+7E-E:[BREAK]Лицо - единственная не[BREAK]механическая его часть.[BREAK]Ест мясо, пропитаное[BREAK]машинным маслом.[END]
+
+7F:[BREAK]Its rocket-based ramming[BREAK]attacks are intense.[BREAK]Doesn't seem to be that[BREAK]interested in outer space.[END]
+7F-E:[BREAK][BREAK]Его ракетные рывки очень[BREAK]интенсивны. Не особо[BREAK]интересуется космосом.[END]
+
+80:[BREAK][BREAK]A boar rigged up with a[BREAK]spring. And not the water[BREAK]kind, either.[END]
+80-E:[BREAK][BREAK]Кабан, заведённый[BREAK]ключём. Не тем, из[BREAK]которого течёт вода.[END]
+
+81:[BREAK]A roach strengthened[BREAK]by its all-silver body. It[BREAK]actually makes it less[BREAK]gross and creepy.[END]
+81-E:[BREAK][BREAK]Таракан, усиленный[BREAK]серебряным телом. Он[BREAK]так даже менее отвратный.[END]
+
+82:A powered-up Flying[BREAK]Mouse. The jet engine on[BREAK]its back and propeller on[BREAK]its neck give it a top[BREAK]speed of 40 mph.[END]
+82-E:Усиленная Летучая[BREAK]Мышь. Двигатель и[BREAK]пропеллер позволяют[BREAK]ей летать со скоростью[BREAK]40 миль в сек.[END]
+
+83:[BREAK]Flies out of power conduits[BREAK]with lots of energy and...[BREAK]Hectic! Energetic! Electric![BREAK]That's its slogan.[END]
+83-E:[BREAK]Вылетает из проводов,[BREAK]полных энергии. Его[BREAK]слоган:Беспокойный![BREAK]Энергичный! Электричный![END]
+
+84:[BREAK]It's minor because, first of[BREAK]all, it's terrible at math,[BREAK]and second, it needs 64 C[BREAK]batteries.[END]
+84-E:[BREAK][BREAK]Он младший потому, что:[BREAK]1:плохо с математикой[BREAK]2:ему надо 64 С батареи.[END]
+
+85:[BREAK]Its engine runs on a deep,[BREAK]passionate yearning to[BREAK]meet people and find out[BREAK]about them.[END]
+85-E:[BREAK][BREAK]Работает на желании,[BREAK]знакомится с людьми[BREAK]и узнавать о их жизни.[END]
+
+86:[END]
+86-E:[END]
+
+87:[BREAK]A robot that replenishes[BREAK]other robots' energy by[BREAK]utilizing the power of the[BREAK]atom.[END]
+87-E:[BREAK]Робот, который[BREAK]восстанавливает[BREAK]другим роботам энергию[BREAK]силой атома.[END]
+
+88:Replenishes even more[BREAK]energy than the Atomic[BREAK]Power Robot, but its[BREAK]explosion is all the more[BREAK]powerful, too.[END]
+88-E:[BREAK]Восстанавливает ещё[BREAK]больше енергии, чем[BREAK]Атомный робот. И[BREAK]взрывается сильнее.[END]
+
+89:[BREAK]Feels negatively about[BREAK]anything and everything.[BREAK]Only feels positively about[BREAK]feeling negatively.[END]
+89-E:[BREAK][BREAK]Негативен по отношению[BREAK]ко всему. Позитивен лишь[BREAK]к негативным чувствам.[END]
+
+8A:[BREAK]Its head is crammed with[BREAK]knowledge, such as insect[BREAK]and flower names and how[BREAK]much certain things cost.[END]
+8A-E:[BREAK]Голова забита знаниями,[BREAK]такими как названия[BREAK]цветов и насекомых и[BREAK]стоимость вещей.[END]
+
+8B:[BREAK]What might its ultimate[BREAK]pose be? It's making an[BREAK]effort to master posing[BREAK]techniques in battle.[END]
+8B-E:[BREAK]Какова его верховная[BREAK]поза? Учится[BREAK]мастерски позировать[BREAK]прямо в битвах.[END]
+
+8C:Three years later, the[BREAK]Spud Bug is now a[BREAK]respectable adult. But[BREAK]what does that even mean[BREAK]for a bug?[END]
+8C-E:[BREAK]Три года спустя,[BREAK]Жучара теперь стал[BREAK]взрослым. Но что это[BREAK]даёт жуку?[END]
+
+8D:[BREAK]A rustic combination of a[BREAK]baked yam and a toy[BREAK]helicopter. It grates its[BREAK]body and sends gunk flying.[END]
+8D-E:[BREAK]Комбинация Батата и[BREAK]игрушечного пропеллера.[BREAK]Раскидывает куски  себя[BREAK]повсюду.[END]
+
+8E:[BREAK]A special Chimera created[BREAK]for Porky's birthday.[BREAK]Production expenses were[BREAK]astronomical.[END]
+8E-E:[BREAK]Специальная Химера -[BREAK]подарок на День[BREAK]Рождения Порки. Она[BREAK]обошлась очень дорого.[END]
+
+8F:[BREAK]A construction Chimera[BREAK]designed to destroy the[BREAK]old Chimera Lab to make[BREAK]way for a new building.[END]
+8F-E:[BREAK]Химера, предназначеная[BREAK]для уничтожения старой[BREAK]Лаборатории Химер[BREAK]для нового здания.[END]
+
+90:[BREAK]This is getting out of hand.[BREAK]What's next, an anteater[BREAK]zombie? A platypus[BREAK]zombie?[END]
+90-E:[BREAK][BREAK]Это уже слишком! Что ещё,[BREAK]Зомби - Муравьед?[BREAK]Зомби - Утконос?[END]
+
+91:[BREAK]The eggs of a walleye[BREAK]pollock, salted and[BREAK]prepared to perfection in a[BREAK]seasoned broth. As a man.[END]
+91-E:[BREAK]Икра Минтая, засоленая,[BREAK]заготовленая, и[BREAK]готовая к употреблению.[BREAK]В виде человека.[END]
+
+92:[END]
+92-E:[END]
+
+93:[BREAK]Modeled after the Ultimate[BREAK]Octobot. But where did[BREAK]they manage to find an[BREAK]Ultimate Octobot?[END]
+93-E:[BREAK]Сделан по образу[BREAK]Верховного Октобота.[BREAK]Но где они взяли[BREAK]Верховного Октобота?[END]
+
+94:Even household carpets[BREAK]aren't safe from this[BREAK]guy's smaller cousins.[BREAK]Osohe just houses the big[BREAK]ones.[END]
+94-E:Даже домашние ковры[BREAK]иногда захвачены[BREAK]родичами этого парня.[BREAK]В Осохе живут самые[BREAK]большие.[END]
+
+95:[BREAK]This Pigmask surveillance[BREAK]robot doesn't utilize[BREAK]infrared detectors. It[BREAK]responds to smell instead.[END]
+95-E:[BREAK]Этот робот Свиномасков[BREAK]не использует[BREAK]инфракрасные датчики,[BREAK]а детекторы запаха.[END]
+
+96:[BREAK][BREAK]Blundering, chubby soldiers[BREAK]who began showing up in[BREAK]Tazmily one day.[END]
+96-E:[BREAK][BREAK]Пухлые солдаты,[BREAK]которые начали однажды[BREAK]появляться в Тазмили.[END]
+
+97:See Zombie Man's page for[BREAK]her description, because[BREAK]they're exactly alike,[BREAK]pronouns aside. Not just[BREAK]because the writer is lazy.[END]
+97-E:Прочитайте страницу[BREAK]зомби парня, так как они,[BREAK]по сути, абсолютно[BREAK]одинаковы, а не из-за[BREAK]ленивого писателя.[END]
+
+98:[BREAK]The rarest member of[BREAK]<fungus mobilus>.[BREAK]Absolutely do not d-d-dare[BREAK]to ever e-e-eat one.[END]
+98-E:[BREAK]Самый редкий член[BREAK]<фунгус мобилус>.[BREAK]Д-д-даже не смейте[BREAK]есть так-к-к-кого.[END]
+
+99:[BREAK]Some may think he's more[BREAK]important than Mr. Batty,[BREAK]but he's actually at Mr.[BREAK]Batty's beck and call.[END]
+99-E:[BREAK]Некоторые думают, что он[BREAK]важнее Г-на Мыши,[BREAK]но на самом деле он[BREAK]его помошник.[END]
+
+9A:[BREAK]Has an incredible three, no,[BREAK]four exclamation marks in[BREAK]its name. That's just the[BREAK]kind of spider it is.[END]
+9A-E:[BREAK][BREAK]Имеет 3, нет, 4[BREAK]восклицательных знака в[BREAK]своём имени. Тот ещё паук.[END]
+
+9B:[BREAK]He's astoundingly greedy[BREAK]and claims he's merely[BREAK]lending everything in the[BREAK]world to everyone.[END]
+9B-E:[BREAK][BREAK]Невероятно жадная,[BREAK]но заявляет, что[BREAK]всё берёт на время.[END]
+
+9C:[BREAK]A forgotten guitar left[BREAK]wailing in the attic. Plays[BREAK]touching solos with its last[BREAK]three strings.[END]
+9C-E:[BREAK]Забытая гитара,[BREAK]плачущая в чердаке.[BREAK]Играет трогательные соло[BREAK]на 3 последних струнах.[END]
+
+9D:Even after being torn, it[BREAK]defiantly orders not to[BREAK]give up, but to bang on the[BREAK]rim instead! It isn't easily[BREAK]beaten.[END]
+9D-E:[BREAK][BREAK]Не хочет здаваться, даже[BREAK]не смотря на состояние.[BREAK]Хочет отбивать ритм![END]
+
+9E:[BREAK]He's had trouble eating[BREAK]worms ever since both of[BREAK]his hands were converted[BREAK]into power drills.[END]
+9E-E:[BREAK][BREAK]Ему трудно есть червей[BREAK]после того, как ему[BREAK]заменили лапы на дрели.[END]
+
+9F:[BREAK]As a lion, its bite and roar[BREAK]are expected. The coiling[BREAK]and the fire-breathing[BREAK]thing, not so much.[END]
+9F-E:[BREAK][BREAK]От льва ожидается рык и[BREAK]укусы. Щупальца и[BREAK]огонь - не особо.[END]
+
+A0:[BREAK]This was thrown together[BREAK]for no real reason. There's[BREAK]no use for it, so it was set[BREAK]free on the highway.[END]
+A0-E:[BREAK]Был собран без особой[BREAK]причины. Бесполезен,[BREAK]поэтому его выпустили[BREAK]на шоссе.[END]
+
+A1:It boasts an instantly[BREAK]understandable design. If[BREAK]only it would wait to[BREAK]attack until AFTER people[BREAK]do their business...[END]
+A1-E:[BREAK]Имеет узнаваемый[BREAK]дизайн, но если бы он[BREAK]ждал пока люди[BREAK]закончат все свои дела...[END]
+
+A2:[BREAK]A Wobbly Robot that has[BREAK]broken down, with no[BREAK]plans for renovation. It's[BREAK]not worth worrying about.[END]
+A2-E:[BREAK][BREAK]Разбитый Шаткий Робот.[BREAK]Планов на реновацию нет,[BREAK]так что не волнуйтесь.[END]
+
+A3:[BREAK]A Clayman that has grown[BREAK]lonely. All sorts of garbage[BREAK]and junk have been[BREAK]absorbed into its body.[END]
+A3-E:[BREAK][BREAK]Одинокий Глиняник.[BREAK]Самый разный мусор был[BREAK]поглощён его телом.[END]
+
+A4:[BREAK]More than anything, it[BREAK]lives to terrify people. It[BREAK]sometimes startles itself[BREAK]and bursts into laughter.[END]
+A4-E:[BREAK][BREAK]Обожает пугать людей.[BREAK]Иногда пугает сам себя,[BREAK]от чего начинает смеяться.[END]
+
+A5:Little Alkaline, Mr.[BREAK]Manganese, Li'l Lithium,[BREAK]Sir Nickle. They all look[BREAK]alike, but there are many[BREAK]different kinds.[END]
+A5-E:Щелочёнок, Г-н[BREAK]Марганец, Малыш Литий,[BREAK]Сэр Никель. Они все[BREAK]похожи, но их существует[BREAK]так много.[END]
+
+A6:A screw that holds[BREAK]Thunder Tower together.[BREAK]Even if 5 or 6 of them[BREAK]come loose, it's no big[BREAK]deal.[END]
+A6-E:[BREAK]Винт, вкрученый в[BREAK]Грозовую Башню. Даже[BREAK]если 5 или 6 выпадут,[BREAK]ничего плохого не будет.[END]
+
+A7:[BREAK]Its creepy, happy smile[BREAK]and overly-friendly[BREAK]attitude make it deeply[BREAK]suspicious.[END]
+A7-E:[BREAK]Эта страшная ухмылка и[BREAK]чрезвычайная[BREAK]доброта делают её[BREAK]очень подозрительной.[END]
+
+A8:Based on a comic drawn[BREAK]by Porky. It shoots[BREAK]mini-mechs from its[BREAK]mouth and causes a real[BREAK]uproar.[END]
+A8-E:Сделано по одному из[BREAK]комиксов Порки.[BREAK]Стреляет мини-мехами[BREAK]из своего рта. Очень[BREAK]шумная.[END]
+
+A9:[END]
+A9-E:[END]
+
+AA:[END]
+AA-E:[END]
+
+AB:[BREAK]A Pigmask quite content[BREAK]being major. His monthly[BREAK]salary is a meager 1400[BREAK]DP.[END]
+AB-E:[BREAK][BREAK]Свиномаск, довольный[BREAK]позицией майора.[BREAK]Зарабатывает 1400 ДС.[END]
+
+AC:[BREAK]A Pigmask who fears[BREAK]demotion to major. His[BREAK]monthly salary is a meager[BREAK]2000 DP.[END]
+AC-E:[BREAK]Свиномаск, который[BREAK]боится опустится до[BREAK]майора. Зарабатывает[BREAK]2000 ДС.[END]
+
+AD:[BREAK]A Pigmask who aims for[BREAK]promotion to major. His[BREAK]monthly salary is a meager[BREAK]900 DP.[END]
+AD-E:[BREAK]Свиномаск, планирующий[BREAK]стать майором.[BREAK]Зарабатывает лишь[BREAK]900 ДС.[END]
+
+AE:[BREAK]Patrols the bottom of the[BREAK]sea and receives an extra[BREAK]4 DP an hour because of[BREAK]the danger involved.[END]
+AE-E:[BREAK][BREAK]Патрулирует дно моря.[BREAK]Получает ещё 4 ДС в час[BREAK]из-за опасного окружения.[END]
+
+AF:[BREAK]This bizarre creature is[BREAK]like a guardian deity of the[BREAK]sea. He punishes violators[BREAK]with powerful whirlpools.[END]
+AF-E:[BREAK]Это непонятное создание[BREAK]охраняет морское дно.[BREAK]Атакует нарушителей[BREAK]водоворотами.[END]
+
+B0:[BREAK]The rough rider of the sea.[BREAK]This bad boy rebel dyed his[BREAK]pincers and his body[BREAK]metallic purple.[END]
+B0-E:[BREAK][BREAK]Этот морской бунтарь[BREAK]окрасил клешни и тело в[BREAK]фиолетовый цвет.[END]
+
+B1:[BREAK]Has five eyeballs. Two are[BREAK]on its back. Has only one[BREAK]mouth... but, wait, that's[BREAK]normal.[END]
+B1-E:[BREAK][BREAK]Имеет 5 глаз, 2 из[BREAK]которых на спине. Имеет[BREAK]1 рот, но это нормально.[END]
+
+B2:Sometimes it accidentally[BREAK]swallows the food that it[BREAK]went through all the[BREAK]trouble to get for its baby[BREAK]baldlings.[END]
+B2-E:[BREAK][BREAK]Иногда случайно съедает[BREAK]еду, которую нёсла своим[BREAK]птенцам.[END]
+
+B3:[BREAK]Takes care of suspicious[BREAK]intruders, smoke in the[BREAK]kitchen, and reheating the[BREAK]bathtub.[END]
+B3-E:[BREAK]Решает проблемы с[BREAK]незваными гостями,[BREAK]дымом в кухне и[BREAK]нагревом воды.[END]
+
+B4:This bad breeze causes[BREAK]trouble when it flips up[BREAK]skirts and blows off[BREAK]toupees. Unwelcome,[BREAK]indeed.[END]
+B4-E:Очень мешает тем, что[BREAK]задирает юбки и[BREAK]срывает парики.[BREAK]Очень нежеланный,[BREAK]это точно.[END]
+
+B5:[END]
+B5-E:[END]
+
+B6:[END]
+B6-E:[END]
+
+B7:[BREAK]Native to Tanetane Island.[BREAK]The strongest and[BREAK]greenest of all Titany[BREAK]species.[END]
+B7-E:[BREAK][BREAK]Живёт на острове[BREAK]Танэтанэ. Самая сильная[BREAK]и зелёная из всех Титани.[END]
+
+B8:This improved Wobbly[BREAK]Robot no longer wobbles.[BREAK]Why wasn't it made this[BREAK]way to begin with? No one[BREAK]knows.[END]
+B8-E:[BREAK]Этот улучшеный Шаткий[BREAK]Робот больше не шатается.[BREAK]Почему он не был таким[BREAK]изначально?[END]
+
+B9:The Beanling is a very[BREAK]mysterious creature. It's[BREAK]also quick to run away. If[BREAK]you can catch one, it'll be[BREAK]a great day.[END]
+B9-E:Бобёнок это очень[BREAK]Таинственное существо,[BREAK]которое быстро убегает.[BREAK]Если вы поймаете одного,[BREAK]день будет отличный.[END]
+
+BA:[BREAK]A Beanling coated in[BREAK]sparkling syrup. You'll only[BREAK]come across this monster[BREAK]if you've got good luck.[END]
+BA-E:[BREAK]Бобёнок, покрытый[BREAK]сладким сиропом. Вы[BREAK]встретите этого монстра[BREAK]только если вы везунчик.[END]
+
+BB:A tiny, tiny forest that[BREAK]grows in the mole cricket[BREAK]hole. It's really more of a[BREAK]bush than a forest, but[BREAK]whatever.[END]
+BB-E:Очень маленький лес,[BREAK]растущий в норе Медведок.[BREAK]Больше похоже на[BREAK]куст, но ладно.[END]
+
+BC:[END]
+BC-E:[END]
+
+BD:[END]
+BD-E:[END]
+
+BE:[END]
+BE-E:[END]
+
+BF:[END]
+BF-E:[END]
+
+C0:[END]
+C0-E:[END]
+
+C1:[END]
+C1-E:[END]
+
+C2:[END]
+C2-E:[END]
+
+C3:[END]
+C3-E:[END]
+
+C4:[END]
+C4-E:[END]
+
+C5:[END]
+C5-E:[END]
+
+C6:[END]
+C6-E:[END]
+
+C7:[END]
+C7-E:[END]
+
+C8:[END]
+C8-E:[END]
+
+C9:[END]
+C9-E:[END]
+
+CA:[END]
+CA-E:[END]
+
+CB:[END]
+CB-E:[END]
+
+CC:[END]
+CC-E:[END]
+
+CD:[END]
+CD-E:[END]
+
+CE:[END]
+CE-E:[END]
+
+CF:[END]
+CF-E:[END]
+
+D0:[END]
+D0-E:[END]
+
+D1:[END]
+D1-E:[END]
+
+D2:[END]
+D2-E:[END]
+
+D3:[END]
+D3-E:[END]
+
+D4:[END]
+D4-E:[END]
+
+D5:[END]
+D5-E:[END]
+
+D6:[END]
+D6-E:[END]
+
+D7:[END]
+D7-E:[END]
+
+D8:[END]
+D8-E:[END]
+
+D9:[END]
+D9-E:[END]
+
+DA:[END]
+DA-E:[END]
+
+DB:[END]
+DB-E:[END]
+
+DC:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+DC-E:[BREAK]Выс: 100см Вес:100Кг[BREAK]Личность: Жестокий[BREAK]Обитание: Горы[BREAK]Опыт: 12345[END]
+
+DD:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+DD-E:[BREAK]Выс: 100см Вес:100Кг[BREAK]Личность: Жестокий[BREAK]Обитание: Горы[BREAK]Опыт: 12345[END]
+
+DE:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+DE-E:[BREAK]Выс: 100см Вес:100Кг[BREAK]Личность: Жестокий[BREAK]Обитание: Горы[BREAK]Опыт: 12345[END]
+
+DF:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+DF-E:[BREAK]Выс: 100см Вес:100Кг[BREAK]Личность: Жестокий[BREAK]Обитание: Горы[BREAK]Опыт: 12345[END]
+
+E0:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+E0-E:[BREAK]Выс: 100см Вес:100Кг[BREAK]Личность: Жестокий[BREAK]Обитание: Горы[BREAK]Опыт: 12345[END]
+
+E1:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+E1-E:[BREAK]Выс: 100см Вес:100Кг[BREAK]Личность: Жестокий[BREAK]Обитание: Горы[BREAK]Опыт: 12345[END]
+
+E2:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+E2-E:[BREAK]Выс: 100см Вес:100Кг[BREAK]Личность: Жестокий[BREAK]Обитание: Горы[BREAK]Опыт: 12345[END]
+
+E3:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+E3-E:[BREAK]Выс: 100см Вес:100Кг[BREAK]Личность: Жестокий[BREAK]Обитание: Горы[BREAK]Опыт: 12345[END]
+
+E4:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+E4-E:[BREAK]Выс: 100см Вес:100Кг[BREAK]Личность: Жестокий[BREAK]Обитание: Горы[BREAK]Опыт: 12345[END]
+
+E5:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+E5-E:[BREAK]Выс: 100см Вес:100Кг[BREAK]Личность: Жестокий[BREAK]Обитание: Горы[BREAK]Опыт: 12345[END]
+
+E6:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+E6-E:[BREAK]Выс: 100см Вес:100Кг[BREAK]Личность: Жестокий[BREAK]Обитание: Горы[BREAK]Опыт: 12345[END]
+
+E7:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+E7-E:[BREAK]Выс: 100см Вес:100Кг[BREAK]Личность: Жестокий[BREAK]Обитание: Горы[BREAK]Опыт: 12345[END]
+
+E8:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+E8-E:[BREAK]Выс: 100см Вес:100Кг[BREAK]Личность: Жестокий[BREAK]Обитание: Горы[BREAK]Опыт: 12345[END]
+
+E9:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+E9-E:[BREAK]Выс: 100см Вес:100Кг[BREAK]Личность: Жестокий[BREAK]Обитание: Горы[BREAK]Опыт: 12345[END]
+
+EA:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+EA-E:[BREAK]Выс: 100см Вес:100Кг[BREAK]Личность: Жестокий[BREAK]Обитание: Горы[BREAK]Опыт: 12345[END]
+
+EB:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+EB-E:[BREAK]Выс: 100см Вес:100Кг[BREAK]Личность: Жестокий[BREAK]Обитание: Горы[BREAK]Опыт: 12345[END]
+
+EC:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+EC-E:[BREAK]Выс: 100см Вес:100Кг[BREAK]Личность: Жестокий[BREAK]Обитание: Горы[BREAK]Опыт: 12345[END]
+
+ED:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+ED-E:[BREAK]Выс: 100см Вес:100Кг[BREAK]Личность: Жестокий[BREAK]Обитание: Горы[BREAK]Опыт: 12345[END]
+
+EE:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+EE-E:[BREAK]Выс: 100см Вес:100Кг[BREAK]Личность: Жестокий[BREAK]Обитание: Горы[BREAK]Опыт: 12345[END]
+
+EF:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+EF-E:[BREAK]Выс: 100см Вес:100Кг[BREAK]Личность: Жестокий[BREAK]Обитание: Горы[BREAK]Опыт: 12345[END]
+
+F0:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+F0-E:[BREAK]Выс: 100см Вес:100Кг[BREAK]Личность: Жестокий[BREAK]Обитание: Горы[BREAK]Опыт: 12345[END]
+
+F1:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+F1-E:[BREAK]Выс: 100см Вес:100Кг[BREAK]Личность: Жестокий[BREAK]Обитание: Горы[BREAK]Опыт: 12345[END]
+
+F2:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+F2-E:[BREAK]Выс: 100см Вес:100Кг[BREAK]Личность: Жестокий[BREAK]Обитание: Горы[BREAK]Опыт: 12345[END]
+
+F3:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+F3-E:[BREAK]Выс: 100см Вес:100Кг[BREAK]Личность: Жестокий[BREAK]Обитание: Горы[BREAK]Опыт: 12345[END]
+
+F4:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+F4-E:[BREAK]Выс: 100см Вес:100Кг[BREAK]Личность: Жестокий[BREAK]Обитание: Горы[BREAK]Опыт: 12345[END]
+
+F5:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+F5-E:[BREAK]Выс: 100см Вес:100Кг[BREAK]Личность: Жестокий[BREAK]Обитание: Горы[BREAK]Опыт: 12345[END]
+
+F6:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+F6-E:[BREAK]Выс: 100см Вес:100Кг[BREAK]Личность: Жестокий[BREAK]Обитание: Горы[BREAK]Опыт: 12345[END]
+
+F7:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+F7-E:[BREAK]Выс: 100см Вес:100Кг[BREAK]Личность: Жестокий[BREAK]Обитание: Горы[BREAK]Опыт: 12345[END]
+
+F8:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+F8-E:[BREAK]Выс: 100см Вес:100Кг[BREAK]Личность: Жестокий[BREAK]Обитание: Горы[BREAK]Опыт: 12345[END]
+
+F9:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+F9-E:[BREAK]Выс: 100см Вес:100Кг[BREAK]Личность: Жестокий[BREAK]Обитание: Горы[BREAK]Опыт: 12345[END]
+
+FA:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+FA-E:[BREAK]Выс: 100см Вес:100Кг[BREAK]Личность: Жестокий[BREAK]Обитание: Горы[BREAK]Опыт: 12345[END]
+
+FB:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+FB-E:[BREAK]Выс: 100см Вес:100Кг[BREAK]Личность: Жестокий[BREAK]Обитание: Горы[BREAK]Опыт: 12345[END]
+
+FC:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+FC-E:[BREAK]Выс: 100см Вес:100Кг[BREAK]Личность: Жестокий[BREAK]Обитание: Горы[BREAK]Опыт: 12345[END]
+
+FD:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+FD-E:[BREAK]Выс: 100см Вес:100Кг[BREAK]Личность: Жестокий[BREAK]Обитание: Горы[BREAK]Опыт: 12345[END]
+
+FE:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+FE-E:[BREAK]Выс: 100см Вес:100Кг[BREAK]Личность: Жестокий[BREAK]Обитание: Горы[BREAK]Опыт: 12345[END]
+
+FF:[BREAK]Ht: 100cm  Wt: 100kg[BREAK]Personality: Atrocious[BREAK]Habitat: Mountains[BREAK]Experience: 12345[END]
+FF-E:[BREAK]Выс: 100см Вес:100Кг[BREAK]Личность: Жестокий[BREAK]Обитание: Горы[BREAK]Опыт: 12345[END]

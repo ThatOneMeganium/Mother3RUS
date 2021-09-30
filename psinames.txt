@@ -1,0 +1,199 @@
+// PSI names must be 19 letters or less, but the shorter the better
+00:(EMPTY)
+00-E:(EMPTY)
+01:PK Cool Thing
+01-E:ПК ЛюбимаяШтука
+02:PK Cool Thing
+02-E:ПК ЛюбимаяШтука
+03:PK Cool Thing
+03-E:ПК ЛюбимаяШтука
+04:PK Cool Thing
+04-E:ПК ЛюбимаяШтука
+05:PK Flash
+05-E:ПК Вспышка
+06:PK Starstorm
+06-E:ПК Звездопад
+07:PK Fire [ALPHA]
+07-E:ПК Огонь [ALPHA]
+08:PK Fire [BETA]
+08-E:ПК Огонь [BETA]
+09:PK Fire [GAMMA]
+09-E:ПК Огонь [GAMMA]
+0A:PK Fire [OMEGA]
+0A-E:ПК Огонь [OMEGA]
+0B:PK Freeze [ALPHA]
+0B-E:ПК Мороз [ALPHA]
+0C:PK Freeze [BETA]
+0C-E:ПК Мороз [BETA]
+0D:PK Freeze [GAMMA]
+0D-E:ПК Мороз [GAMMA]
+0E:PK Freeze [OMEGA]
+0E-E:ПК Мороз [OMEGA]
+0F:PK Thunder [ALPHA]
+0F-E:ПК Гроза [ALPHA]
+10:PK Thunder [BETA]
+10-E:ПК Гроза [BETA]
+11:PK Thunder [GAMMA]
+11-E:ПК Гроза [GAMMA]
+12:PK Thunder [OMEGA]
+12-E:ПК Гроза [OMEGA]
+13:PK Ground
+13-E:ПК Земля
+14:(EMPTY)
+14-E:(EMPTY)
+15:(EMPTY)
+15-E:(EMPTY)
+16:Lifeup [ALPHA]
+16-E:Лечение [ALPHA]
+17:Lifeup [BETA]
+17-E:Лечение [BETA]
+18:Lifeup [GAMMA]
+18-E:Лечение [GAMMA]
+19:Lifeup [OMEGA]
+19-E:Лечение [OMEGA]
+1A:Refresh
+1A-E:Освежение
+1B:Healing [ALPHA]
+1B-E:Исцеление [ALPHA]
+1C:Healing [BETA]
+1C-E:Исцеление [BETA]
+1D:Healing [GAMMA]
+1D-E:Исцеление [GAMMA]
+1E:Healing [OMEGA]
+1E-E:Исцеление [OMEGA]
+1F:PSI Magnet [ALPHA]
+1F-E:ПСИ Магнит [ALPHA]
+20:PSI Magnet [OMEGA]
+20-E:ПСИ Магнит [OMEGA]
+21:(EMPTY)
+21-E:(ЕMPTY)
+22:Shield [ALPHA]
+22-E:Щит [ALPHA]
+23:Shield [OMEGA]
+23-E:Щит [OMEGA]
+24:Counter [ALPHA]
+24-E:Контр [ALPHA]
+25:Counter [OMEGA]
+25-E:Контр [OMEGA]
+26:PSI Shield [ALPHA]
+26-E:ПСИ Щит [ALPHA]
+27:PSI Shield [OMEGA]
+27-E:ПСИ Щит [OMEGA]
+28:PSI Counter [ALPHA]
+28-E:ПСИ Контр [ALPHA]
+29:PSI Counter [OMEGA]
+29-E:ПСИ Контр [OMEGA]
+2A:(EMPTY)
+2A-E:(ЕMPTY)
+2B:(EMPTY)
+2B-E:(ЕMPTY)
+2C:(EMPTY)
+2C-E:(ЕMPTY)
+2D:(EMPTY)
+2D-E:(ЕMPTY)
+2E:Offense Up [ALPHA]
+2E-E:Атака + [ALPHA]
+2F:Offense Up [OMEGA]
+2F-E:Атака + [OMEGA]
+30:Defense Up [ALPHA]
+30-E:Защита + [ALPHA]
+31:Defense Up [OMEGA]
+31-E:Защита + [OMEGA]
+32:(EMPTY)
+32-E:(EMPTY)
+33:Hypnosis [ALPHA]
+33-E:Гипноз [ALPHA]
+34:Hypnosis [OMEGA]
+34-E:Гипноз [OMEGA]
+35:Paralysis [ALPHA]
+35-E:Паралич [ALPHA]
+36:Paralysis [OMEGA]
+36-E:Паралич [OMEGA]
+37:Brainshock [ALPHA]
+37-E:Шок Мозга [ALPHA]
+38:Brainshock [OMEGA]
+38-E:Шок Мозга [OMEGA]
+39:(EMPTY)
+39-E:(ЕMPTY)
+3A:Offense Down [ALPHA]
+3A-E:Атака - [ALPHA]
+3B:Offense Down [OMEGA]
+3B-E:Атака - [OMEGA]
+3C:Defense Down [ALPHA]
+3C-E:Защита - [ALPHA]
+3D:Defense Down [OMEGA]
+3D-E:Защита - [OMEGA]
+3E:(EMPTY)
+3E-E:(ЕMPTY)
+3F:(EMPTY)
+3F-E:(ЕMPTY)
+40:(EMPTY)
+40-E:(ЕMPTY)
+41:(EMPTY)
+41-E:(ЕMPTY)
+42:(EMPTY)
+42-E:(ЕMPTY)
+43:(EMPTY)
+43-E:(ЕMPTY)
+44:(EMPTY)
+44-E:(ЕMPTY)
+45:(EMPTY)
+45-E:(ЕMPTY)
+46:(EMPTY)
+46-E:(ЕMPTY)
+47:(EMPTY)
+47-E:(ЕMPTY)
+48:(EMPTY)
+48-E:(ЕMPTY)
+49:(EMPTY)
+49-E:(ЕMPTY)
+4A:(EMPTY)
+4A-E:(ЕMPTY)
+4B:(EMPTY)
+4B-E:(ЕMPTY)
+4C:(EMPTY)
+4C-E:(ЕMPTY)
+4D:(EMPTY)
+4D-E:(ЕMPTY)
+4E:(EMPTY)
+4E-E:(ЕMPTY)
+4F:(EMPTY)
+4F-E:(ЕMPTY)
+50:(EMPTY)
+50-E:(ЕMPTY)
+51:(EMPTY)
+51-E:(ЕMPTY)
+52:(EMPTY)
+52-E:(ЕMPTY)
+53:(EMPTY)
+53-E:(ЕMPTY)
+54:(EMPTY)
+54-E:(ЕMPTY)
+55:(EMPTY)
+55-E:(ЕMPTY)
+56:(EMPTY)
+56-E:(ЕMPTY)
+57:(EMPTY)
+57-E:(ЕMPTY)
+58:(EMPTY)
+58-E:(ЕMPTY)
+59:(EMPTY)
+59-E:(ЕMPTY)
+5A:(EMPTY)
+5A-E:(ЕMPTY)
+5B:(EMPTY)
+5B-E:(ЕMPTY)
+5C:(EMPTY)
+5C-E:(ЕMPTY)
+5D:(EMPTY)
+5D-E:(ЕMPTY)
+5E:(EMPTY)
+5E-E:(ЕMPTY)
+5F:(EMPTY)
+5F-E:(ЕMPTY)
+60:(EMPTY)
+60-E:(ЕMPTY)
+61:(EMPTY)
+61-E:(ЕMPTY)
+62:(EMPTY)
+62-E:(ЕMPTY)

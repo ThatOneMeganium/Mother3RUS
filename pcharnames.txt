@@ -1,0 +1,34 @@
+// All names here must be 8 letters or less
+
+00:(EMPTY)
+00-E: (EMPTY)
+01:Flint
+01-E:Флинт
+02:Lucas
+02-E:Лукас
+03:Duster
+03-E:Дастер
+04:Kumatora
+04-E:Куматора
+05:Boney
+05-E:Бони
+06:Salsa
+06-E:Сальса
+07:Wess
+07-E:Вэсс
+08:Thomas
+08-E:Томас
+09:Ionia
+09-E:Иония
+0A:Fuel
+0A-E:Фьюел
+0B:Alec
+0B-E:Алек
+0C:Fassad
+0C-E:Фассад
+0D:Claus
+0D-E:Клаус
+0E:(EMPTY)
+0E-E:(EMPTY)
+0F:(EMPTY)
+0F-E:(EMPTY)
