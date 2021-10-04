@@ -1,7 +1,3 @@
-// Text here can be any length. This is all the main menu text and the naming screen text.
-// Entries 001D and 0021 are linked and can be viewed by accessing the "Delete all saves" menu.
-// To do so, press L+R+Start+A on top of LOAD.
-
 0000: [END]
 0000-E: [END]
 0001: ??????????[END]
@@ -91,7 +87,7 @@
 002B: Plain[END]
 002B-E: Простой[END]
 002C: Mint[END]
-002C-E: Мята[END]
+002C-E: Лёд[END]
 002D: Strawberry[END]
 002D-E: Клубника[END]
 002E: Banana[END]
@@ -99,11 +95,11 @@
 002F: Peanut[END]
 002F-E: Орех[END]
 0030: Grape[END]
-0030-E: Виноград[END]
+0030-E: Слива[END]
 0031: Melon[END]
 0031-E: Арбуз[END]
 0032: Is this okay?[END]
-0032-E: Подтверждаете?[END]
+0032-E: Всё верно?[END]
 0033: Invalid / duplicate name[END]
 0033-E: Плохое/дупликатное имя[END]
 0034: Try again?[END]
