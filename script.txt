@@ -1,4 +1,4 @@
-[Container 0]
+﻿[Container 0]
 0-0:123456789012345[BREAK]1234567890123456[BREAK]12345678901234567[BREAK]123456789012345678[BREAK]1234567890123456789[BREAK]12345678901234567890[BREAK]12345678901234567890[BREAK]12345678901234567890[BREAK][END]
 0-0E:123456789012345[BREAK]1234567890123456[BREAK]12345678901234567[BREAK]123456789012345678[BREAK]1234567890123456789[BREAK]12345678901234567890[BREAK]12345678901234567890[BREAK]12345678901234567890[BREAK][END]
 0-1:[CENTER]1[BREAK]123[BREAK]12345[BREAK]1234567[BREAK]123456789[BREAK]12345678901[BREAK]1234567890123[BREAK]123456789012345[BREAK]12345678901234567[BREAK]123456789012345678[BREAK]12345678901234567890[BREAK][END]
@@ -14,7 +14,7 @@
 0-6:[BREAK][CENTER]Home of Alec,[BREAK][CENTER][HINAWA 22 08 00]'s Father[END]
 0-6E:[BREAK][CENTER]Дом Алека[END]
 0-7:[BREAK]Dear [FLINT 23 01 00],[BREAK]Just like you said they would, the children[BREAK]have been running around the mountains and[BREAK]fields tirelessly since the moment we arrived.[BREAK][BREAK][CLAUS 22 05 00] is as daring and full of energy[BREAK]as ever, while [LUCAS 23 02 00] is still a bit[BREAK]coddled. But neither one seems tired of[BREAK]playing at all.[BREAK][BREAK]My father seems sad to say goodbye to his[BREAK]grandchildren after seeing them for the first[BREAK]time in so long, but we should be home by[BREAK]this evening.[BREAK][BREAK]I had forgotten how nice and refreshing the[BREAK]mountain air is. You're always covered in the[BREAK]smell of sheep back in Tazmily Village, so I[BREAK]really wish you could have been here to take[BREAK]in this air.[BREAK][BREAK]The next time we visit, let's ask one of our[BREAK]neighbors to tend to the sheep so we can all[BREAK]come up here as a family.[BREAK][BREAK][CLAUS 22 05 00], [LUCAS 23 02 00], and I were[BREAK]always thinking about you. When we get[BREAK]home this evening, I'll start cooking some[BREAK]of your favorite [FAVFOOD] right away.[BREAK][BREAK]With love, your dearest [HINAWA 22 08 00][BREAK][BREAK][END]
-0-7E:[BREAK]Дорогой [FLINT 23 01 00],[BREAK]Как ты и сказал, дети безустанно[BREAK]бегали в горах и полях с[BREAK]момента нашего прибытия.[BREAK][BREAK][CLAUS 22 05 00] как всегда полон энергии,[BREAK]но [LUCAS 23 02 00] ещё немного боится.[BREAK]Несмотря на это, ни один из них[BREAK]ещё не устал играть.[BREAK][BREAK]Моему отцу жалко прощаться со своими[BREAK]внуками после столь долгой разлуки,[BREAK]но к вечеру мы уже должны быть дома.[BREAK][BREAK]Я уже и забыла насколько свеж[BREAK]горный воздух. От тебя в деревне[BREAK]всегда пахнет овцами, поэтому я[BREAK]так хочу, чтобы ты был тут с нами,[BREAK]и дышал этим воздухом.[BREAK][BREAK]В следующий раз, попроси одного из[BREAK]соседей проследить за овцами, чтобы[BREAK]мы пришли сюда всей семьёй.[BREAK][BREAK][CLAUS 22 05 00], [LUCAS 23 02 00] и я[BREAK]всегда думаем о тебе. Когда я прийду[BREAK]домой сегодня вечером, я приготовлю[BREAK]твоё любимое - [FAVFOOD].[BREAK][BREAK]С любовью, твоя [HINAWA 22 08 00].[BREAK][BREAK][END]
+0-7E:[BREAK]Дорогой [FLINT 23 01 00],[BREAK]Как ты и сказал, дети безустанно[BREAK]бегали в горах и полях с[BREAK]момента нашего прибытия.[BREAK][BREAK][CLAUS 22 05 00] как всегда полон энергии,[BREAK]но [LUCAS 23 02 00] ещё немного боится.[BREAK]Несмотря на это, ни один из них[BREAK]ещё не устал играть.[BREAK][BREAK]Моему отцу жалко прощаться со своими[BREAK]внуками после столь долгой разлуки,[BREAK]но к вечеру мы уже должны быть дома.[BREAK][BREAK]Я уже и забыла насколько свеж[BREAK]горный воздух. От тебя в деревне[BREAK]всегда пахнет овцами, поэтому я[BREAK]так хочу, чтобы ты был тут с нами,[BREAK]и дышал этим воздухом.[BREAK][BREAK]В следующий раз, попроси одного из[BREAK]соседей проследить за овцами, чтобы[BREAK]мы пришли сюда всей семьёй.[BREAK][BREAK][CLAUS 22 05 00], [LUCAS 23 02 00] и я[BREAK]всегда думаем о тебе. Когда я приду[BREAK]домой сегодня вечером, я приготовлю[BREAK]твоё любимое - [FAVFOOD].[BREAK][BREAK]С любовью, твоя [HINAWA 22 08 00].[BREAK][BREAK][END]
 // 50 characters max per line
 0-8:[FILE=".\0-8.txt"][END]
 0-8E:[FILE=".\0-8.txt"][END]
@@ -657,7 +657,7 @@
 2-5E:@Ай. Дверная ручка![PAUSE 30 00][BREAK]  То есть, [FLINT 23 01 00]![WAIT]  Не время дремать![WAIT]@В Лесу Солнца огромный пожар![END]
 // Repeats: 2-5, 12-5
 2-6:@Bad times like this call for reckless nice guys[BREAK]  like you![WAIT]@Please come, [FLINT 26 01 00 03 00]!!![WAIT]  Please![WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-2-6E:@В подобные времена нам нужны безрассудные[BREAK]  добряки как ты![WAIT]@Пожалуйста прийди, [FLINT 26 01 00 03 00]!!![WAIT]  Прошу![WAIT][MENU 02 00][MENUSPACEYES]Да[MENUSPACENO]Нет[ENDCHOICES][END]
+2-6E:@В подобные времена нам нужны безрассудные[BREAK]  добряки как ты![WAIT]@Пожалуйста приди, [FLINT 26 01 00 03 00]!!![WAIT]  Прошу![WAIT][MENU 02 00][MENUSPACEYES]Да[MENUSPACENO]Нет[ENDCHOICES][END]
 // Repeats: 2-6, 12-6
 2-7:[END]
 2-7E:[END]
@@ -834,7 +834,7 @@
 3-34:@[FLINT 23 01 00].[WAIT]@You should probably head back home and check[BREAK]  on things.[END]
 3-34E:@[FLINT 23 01 00].[WAIT]@Тебе стоит сходить домой и проверить.[END]
 3-35:@She did say they were coming back today...[END]
-3-35E:@Она ведь сказала, что прийдёт сегодня...[END]
+3-35E:@Она ведь сказала, что придёт сегодня...[END]
 3-36:@Where could [CLAUS 22 05 00] and[BREAK]  [LUCAS 23 02 00] be?[END]
 3-36E:@Куда же делись [CLAUS 22 05 00] и[BREAK]  [LUCAS 23 02 00]?[END]
 3-37:@You know it's dangerous to be out at this time[BREAK]  of night![WAIT]  ...That's what I'm telling these two, but they[BREAK]  won't listen to me, of course.[END]
@@ -1090,7 +1090,7 @@
 8-10:[ALTERNATEFONT]@wanted to play[BREAK]  ladder.[WAIT]@patience patience.[END]
 8-10E:[ALTERNATEFONT]@хотел играть в[BREAK]  лестницу.[WAIT]@терпение[BREAK]  терпение.[END]
 8-11:[ALTERNATEFONT]@you always come[BREAK]  from now on?[END]
-8-11E:[ALTERNATEFONT]@всегда прийдёшь[BREAK]  теперь?[END]
+8-11E:[ALTERNATEFONT]@всегда придёшь[BREAK]  теперь?[END]
 8-12:[ALTERNATEFONT]@hello every day.[END]
 8-12E:[ALTERNATEFONT]@привет ежедневно.[END]
 8-13:[ALTERNATEFONT]@is good.[BREAK]  right. left.[END]
@@ -1481,7 +1481,7 @@
 12-5E:@Ай. Дверная ручка![PAUSE 30 00][BREAK]  То есть, [FLINT 23 01 00]![WAIT]  Не время дремать![WAIT]@В Лесу Солнца огромный пожар![END]
 // Repeats: 2-5, 12-5
 12-6:@Bad times like this call for reckless nice guys[BREAK]  like you![WAIT]@Please come, [FLINT 26 01 00 03 00]!!![WAIT]  Please![WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-12-6E:@В подобные времена нам нужны безрассудные[BREAK]  добряки как ты![WAIT]@Пожалуйста прийди, [FLINT 26 01 00 03 00]!!![WAIT]  Прошу![WAIT][MENU 02 00][MENUSPACEYES]Да[MENUSPACENO]Нет[ENDCHOICES][END]
+12-6E:@В подобные времена нам нужны безрассудные[BREAK]  добряки как ты![WAIT]@Пожалуйста приди, [FLINT 26 01 00 03 00]!!![WAIT]  Прошу![WAIT][MENU 02 00][MENUSPACEYES]Да[MENUSPACENO]Нет[ENDCHOICES][END]
 // Repeats: 2-6, 12-6
 12-7:[END]
 12-7E:[END]
@@ -2303,7 +2303,7 @@
 19-41E:@Интенсивно горит.[END]
 // Repeats: 19-41, 21-41
 19-42:[SOUND 03 00]@Chirp chirp.[WAIT]  (Sparrow Advice![WAIT]  You know how enemies sometimes leave nice[BREAK]  items behind after you fight them?[WAIT]  If your inventory is full when you find an item[BREAK]  you want,[WAIT]  you'll have to either give it up or throw[BREAK]  another item away.[WAIT]  Which is why it's a good idea to always eat[BREAK]  any food items you have as you go along.[WAIT]  Doing this will help keep your inventory from[BREAK]  getting full.[WAIT]  This little trick is especially useful for when[BREAK]  you're hiking through forests and mountains.[WAIT]  Well, now to end this with a sparrow-like...[EVENT][END]
-19-42E:[SOUND 03 00]@Чик-чирик.[WAIT]  (Совет Воробья![WAIT]  Знаешь, иногда враги оставляют что-нибуть[BREAK]  полезное после битвы?[WAIT]  Если у тебя полный инвертарь,[WAIT]  то тебе прийдётся либо оставить этот, либо[BREAK]  выкинуть другой предмет.[WAIT]  Поэтому лучше есть еду, которую находишь[BREAK]  во время прогулок.[WAIT]  Тогда в твоём инвертаре всегда будет место.[WAIT]  Этот трюк особенно полезен в лесах или в[BREAK]  горах.[WAIT]  Ну, закончу это воробьиным...[EVENT][END]
+19-42E:[SOUND 03 00]@Чик-чирик.[WAIT]  (Совет Воробья![WAIT]  Знаешь, иногда враги оставляют что-нибуть[BREAK]  полезное после битвы?[WAIT]  Если у тебя полный инвертарь,[WAIT]  то тебе придётся либо оставить этот, либо[BREAK]  выкинуть другой предмет.[WAIT]  Поэтому лучше есть еду, которую находишь[BREAK]  во время прогулок.[WAIT]  Тогда в твоём инвертаре всегда будет место.[WAIT]  Этот трюк особенно полезен в лесах или в[BREAK]  горах.[WAIT]  Ну, закончу это воробьиным...[EVENT][END]
 // Repeats: 19-42, 21-42
 19-43:[SOUND 03 00]  Achirpa chirp chirp!)[END]
 19-43E:[SOUND 03 00]  чирка-чик-чирик!)[END]
@@ -2447,7 +2447,7 @@
 21-41E:@Интенсивно горит.[END]
 // Repeats: 19-41, 21-41
 21-42:[SOUND 03 00]@Chirp chirp.[WAIT]  (Sparrow Advice![WAIT]  You know how enemies sometimes leave nice[BREAK]  items behind after you fight them?[WAIT]  If your inventory is full when you find an item[BREAK]  you want,[WAIT]  you'll have to either give it up or throw[BREAK]  another item away.[WAIT]  Which is why it's a good idea to always eat[BREAK]  any food items you have as you go along.[WAIT]  Doing this will help keep your inventory from[BREAK]  getting full.[WAIT]  This little trick is especially useful for when[BREAK]  you're hiking through forests and mountains.[WAIT]  Well, now to end this with a sparrow-like...[EVENT][END]
-21-42E:[SOUND 03 00]@Чик-чирик.[WAIT]  (Совет Воробья![WAIT]  Знаешь, иногда враги оставляют что-нибуть[BREAK]  полезное после битвы?[WAIT]  Если у тебя полный инвертарь,[WAIT]  то тебе прийдётся либо оставить этот, либо[BREAK]  выкинуть другой предмет.[WAIT]  Поэтому лучше есть еду, которую находишь[BREAK]  во время прогулок.[WAIT]  Тогда в твоём инвертаре всегда будет место.[WAIT]  Этот трюк особенно полезен в лесах или в[BREAK]  горах.[WAIT]  Ну, закончу это воробьиным...[EVENT][END]
+21-42E:[SOUND 03 00]@Чик-чирик.[WAIT]  (Совет Воробья![WAIT]  Знаешь, иногда враги оставляют что-нибуть[BREAK]  полезное после битвы?[WAIT]  Если у тебя полный инвертарь,[WAIT]  то тебе придётся либо оставить этот, либо[BREAK]  выкинуть другой предмет.[WAIT]  Поэтому лучше есть еду, которую находишь[BREAK]  во время прогулок.[WAIT]  Тогда в твоём инвертаре всегда будет место.[WAIT]  Этот трюк особенно полезен в лесах или в[BREAK]  горах.[WAIT]  Ну, закончу это воробьиным...[EVENT][END]
 // Repeats: 19-42, 21-42
 21-43:[SOUND 03 00]  Achirpa chirp chirp!)[END]
 21-43E:[SOUND 03 00]  чирка-чик-чирик!)[END]
@@ -3769,7 +3769,7 @@
 38-63:@Whoa, now![END]
 38-63E:@Воу, эй![END]
 38-64:@[PAUSE 5A 00]I was keeping an eye out for you.[WAIT]@I thought you might show up...[PAUSE 18 00] and you did.[WAIT]@C'mon, just go on home now. [PAUSE 5A 00]Please?[END]
-38-64E:@[PAUSE 5A 00]Я за тобой следил.[WAIT]@Думал ты прийдёшь...[PAUSE 18 00] и ты пришел.[WAIT]@Иди домой. [PAUSE 5A 00]Умоляю.[END]
+38-64E:@[PAUSE 5A 00]Я за тобой следил.[WAIT]@Думал ты придёшь...[PAUSE 18 00] и ты пришёл.[WAIT]@Иди домой. [PAUSE 5A 00]Умоляю.[END]
 38-65:@Hold it! Don't you ever listen?![END]
 38-65E:@Стой! Ты меня вообще слушаешь?![END]
 38-66:@You're teasing me, aren't you?[WAIT]@You're not mocking me for being kind, friendly,[BREAK]  and sympathetic, are you?[WAIT]@You are, aren't you?[WAIT]@Alright, this'll be the last time.[WAIT]@I'm not going to stop you anymore.[WAIT]@I won't stop you next time.[WAIT]@But just go on home now. [PAUSE 5A 00]Please?[END]
@@ -4258,7 +4258,7 @@
 47-42:@Whoa, whoa, whoa![END]
 47-42E:@Воу, воу, воу![END]
 47-43:@[PAUSE 5A 00]I was keepin' an eye out for you.[WAIT]@I thought you might show up...[PAUSE 18 00] and you did.[WAIT]@C'mon, just turn back now. [PAUSE 5A 00]Please?[END]
-47-43E:@[PAUSE 5A 00]Я за тобой смотрел.[WAIT]@Думал ты прийдёшь...[PAUSE 18 00] и ты пришел.[WAIT]@Иди назад. [PAUSE 5A 00]Прошу.[END]
+47-43E:@[PAUSE 5A 00]Я за тобой смотрел.[WAIT]@Думал ты придёшь...[PAUSE 18 00] и ты пришёл.[WAIT]@Иди назад. [PAUSE 5A 00]Прошу.[END]
 47-44:@Hold it! Do you never listen?![END]
 47-44E:@Стой! Ты никогда никого не слушаешь?![END]
 47-45:@You're teasin' me, aren't you?[WAIT]@You're not mockin' me for being kind, friendly,[BREAK]  and sympathetic, are you?[WAIT]@You are, aren't you?[WAIT]@Alright, this'll be the last time.[WAIT]@I'm not going to stop you anymore.[WAIT]@I won't stop you next time.[WAIT]@But just turn back now. [PAUSE 5A 00]Please?[END]
@@ -4880,7 +4880,7 @@
 66-0:@What's goin' on?[WAIT]@What're you doing, [DUSTER 23 03 00]?[WAIT]@We need to hurry![END]
 66-0E:@Что происходит?[WAIT]@Что ты делаешь, [DUSTER 23 03 00]?[WAIT]@Нам нужно спешить![END]
 66-1:@Damn.[PAUSE 10 00] It's no use! It won't go![WAIT]@Looks like it's out of power.[WAIT]@I guess all we can do now is walk...[END]
-66-1E:@Чёрт.[PAUSE 10 00] Ничего не работает! Не заводится![WAIT]@Похоже заряд кончился.[WAIT]@Прийдётся нам идти пешком...[END]
+66-1E:@Чёрт.[PAUSE 10 00] Ничего не работает! Не заводится![WAIT]@Похоже заряд кончился.[WAIT]@Придётся нам идти пешком...[END]
 66-2:@It won't start up at all.[END]
 66-2E:@Не заводится.[END]
 66-3:@Squeak squeak squeak squeak.[WAIT]  (Guess what! Guess what![WAIT]  Whenever I eat a cookie and munch on it, my[BREAK]  cheeks get all big and chubby![WAIT]  It's so funny when they get like that.[WAIT]  Huh? My mom?[WAIT]  Oh, she's smiley again today.[WAIT]  She's smiley whenever me and her are[BREAK]  together.[WAIT]  So I'm gonna go home now.)[END]
@@ -5159,7 +5159,7 @@
 
 [Container 79]
 79-0:@Ionia told me you would come here. [HEART][END]
-79-0E:@Иония сказал мне, что вы прийдёте. [HEART][END]
+79-0E:@Иония сказал мне, что вы придёте. [HEART][END]
 79-1:@The Needle I'm guarding is at the bottom of[BREAK]  this pond. [HEART][WAIT]@My Needle is much more of a pain to pull out.[WAIT]  *giggle*[END]
 79-1E:@Игла, которую я охраняю, находится на дне[BREAK]  это пруда. [HEART][WAIT]@Вынуть мою Иглу не так просто.[WAIT]  *хихикает*[END]
 79-2:@It's hard to believe you really have the power[BREAK]  to pull the Needles.[WAIT]@But before you can even try,[WAIT]  we need to move the water from this pond[BREAK]  into that empty hole first.[END]
@@ -5734,7 +5734,7 @@
 90-0:@Squeak squeak squeeeak.[WAIT]  (The house I was secretly living in burned[BREAK]  down.)[END]
 90-0E:@Писк писк пиииск.[WAIT]  (Этот дом, в котором я тайно жил, сгорел.)[END]
 90-1:@Squeak squeak-squeak-squeak...[BREAK]  (Guess I have no choice but to hit the road...)[END]
-90-1E:@Писк писк-писк-писк.[WAIT]  (Прийдётся мне путешествовать...)[END]
+90-1E:@Писк писк-писк-писк.[WAIT]  (Придётся мне путешествовать...)[END]
 90-2:@The house has completely collapsed.[END]
 90-2E:@Дом полностью разрушен.[END]
 // Repeats: 13-32, 83-5, 84-5, 90-2, 131-5, 171-5, 341-5
@@ -6845,7 +6845,7 @@
 124-12:@Why can't you just kick them out?[WAIT]@What?! You can't, because they're too tough?![END]
 124-12E:@Почему вы их не прогнали?[WAIT]@Что?! Они слишком сильны?![END]
 124-13:@Alright.[WAIT]@I'll be right over once I'm through here.[WAIT]  Until then, make SURE you find it![END]
-124-13E:@Ладно.[WAIT]@Закончу тут и прийду к вам.[WAIT]  ОБЯЗАТЕЛЬНО найдите его![END]
+124-13E:@Ладно.[WAIT]@Закончу тут и приду к вам.[WAIT]  ОБЯЗАТЕЛЬНО найдите его![END]
 124-14:@Alright, monkey! Listen up![WAIT]@The Happy Boxes are hidden in the cemetery.[WAIT]@Go deliver them to everyone whose names you[BREAK]  took earlier.[END]
 124-14E:@Так, обезьяна! Слушай![WAIT]@Счастливые Коробки спрятаны на кладбище.[WAIT]@Доставь их всем, чьи имена тебе сказали.[END]
 124-15:@Abbot[WAIT]  Abbey[WAIT]  Biff[WAIT]  Isaac[WAIT]@Those four people.[WAIT]@Where do they live?[WAIT]@How should I know?! Go find them yourself![WAIT]@And when you're finished delivering them,[BREAK]  don't even think about trying to run away.[WAIT]@You'll come straight back to this room.[END]
@@ -8121,7 +8121,7 @@
 175-12:@This really is...[PAUSE 20 00] the beginning of the end.[WAIT]@"The time" has finally come...[PAUSE 18 00] Eeee! [HEART][END]
 175-12E:@Это и правда...[PAUSE 20 00] начало конца.[WAIT]@"Час" настал...[PAUSE 18 00] Оййй! [HEART][END]
 175-13:@I never once imagined someone would show up[BREAK]  at this tender girl's home to pull the Needle. [HEART][END]
-175-13E:@Я и не представлял, что кто-то придйт, и[BREAK]  вырвет иглу этой прекрасной девы. [HEART][END]
+175-13E:@Я и не представлял, что кто-то придёт, и[BREAK]  вырвет иглу этой прекрасной девы. [HEART][END]
 175-14:@Disappearing while still young and beautiful...[WAIT]  In one sense...[PAUSE 18 00] it's bliss. [HEART][END]
 175-14E:@Исчезнуть, пока ты молод и красив...[WAIT]  В каком-то смысле...[PAUSE 18 00] это замечательно. [HEART][END]
 175-15:@[KUMATORA 23 04 00].[WAIT]@Go with little [LUCAS 23 02 00] here and[BREAK]  see things through to the end. [HEART][END]
@@ -13767,7 +13767,7 @@
 
 [Container 359]
 359-0:@I'm all ticked off 'cause the part-timers[BREAK]  who're supposed to come today are late.[WAIT]@You're in the way, so go on, get outta here.[WAIT]@And don't you even dare think about checking[BREAK]  inside the lockers[WAIT]  and putting on any pig masks you find.[END]
-359-0E:@Меня так бесит тот факт, что те помощники,[BREAK]  которые должны прийти сейчас, опаздывают.[WAIT]@А вы уйдите отсюда.[WAIT]@Даже не думайте проверять шкафчики,[WAIT]  и одевать лежащие в них маски свиней.[END]
+359-0E:@Меня так бесит то, что те помощники,[BREAK]  которые должны прийти сейчас, опаздывают.[WAIT]@А вы уйдите отсюда.[WAIT]@Даже не думайте проверять шкафчики,[WAIT]  и одевать лежащие в них маски свиней.[END]
 359-1:[END]
 359-1E:[END]
 

@@ -63,7 +63,7 @@
 1E:[END]
 1E-E:[END]
 1F:Put the game in Sleep Mode?[END]
-1F-E:Поставить игру в режим Сна?[END]
+1F-E:Включить режим Сна?[END]
 20:[END]
 20-E:[END]
 21:[END]
