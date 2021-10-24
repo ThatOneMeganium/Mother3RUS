@@ -657,7 +657,7 @@
 2-5E:@Ай. Дверная ручка![PAUSE 30 00][BREAK]  То есть, [FLINT 23 01 00]![WAIT]  Не время дремать![WAIT]@В Лесу Солнца огромный пожар![END]
 // Repeats: 2-5, 12-5
 2-6:@Bad times like this call for reckless nice guys[BREAK]  like you![WAIT]@Please come, [FLINT 26 01 00 03 00]!!![WAIT]  Please![WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-2-6E:@В подобные времена нам нужны безрассудные[BREAK]  добряки как ты![WAIT]@Пожалуйста приди, [FLINT 26 01 00 03 00]!!![WAIT]  Прошу![WAIT][MENU 02 00][MENUSPACEYES]Да[MENUSPACENO]Нет[ENDCHOICES][END]
+2-6E:@В подобные времена нам нужны безрассудные[BREAK]  добряки как ты![WAIT]@Идём, [FLINT 26 01 00 03 00]!!![WAIT]  Прошу![WAIT][MENU 02 00][MENUSPACEYES]Да[MENUSPACENO]Нет[ENDCHOICES][END]
 // Repeats: 2-6, 12-6
 2-7:[END]
 2-7E:[END]
@@ -1039,7 +1039,7 @@
 7-6:@Don't worry.[WAIT]@I washed it. It's clean.[END]
 7-6E:@Не волнуйся.[WAIT]@Она чистая.[END]
 7-7:@Whoa, come on, now.[WAIT]  Your inventory's full of all kinds of junk.[END]
-7-7E:@Эй, постой.[WAIT]  У тебя в инвертаре куча хлама.[END]
+7-7E:@Эй, постой.[WAIT]  У тебя в инвентаре куча хлама.[END]
 7-8:@Are you looking for our boss?[WAIT]@Last I saw, he was scuttling around, looking[BREAK]  out at the sea in a quiet, unbecoming way.[END]
 7-8E:@Ты ищешь нашего босса?[WAIT]@Я видел как он ползал у моря,[BREAK]  тихо смотрел в сторону моря.[END]
 // These comedy guys are always a pain to translate
@@ -1481,7 +1481,7 @@
 12-5E:@Ай. Дверная ручка![PAUSE 30 00][BREAK]  То есть, [FLINT 23 01 00]![WAIT]  Не время дремать![WAIT]@В Лесу Солнца огромный пожар![END]
 // Repeats: 2-5, 12-5
 12-6:@Bad times like this call for reckless nice guys[BREAK]  like you![WAIT]@Please come, [FLINT 26 01 00 03 00]!!![WAIT]  Please![WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-12-6E:@В подобные времена нам нужны безрассудные[BREAK]  добряки как ты![WAIT]@Пожалуйста приди, [FLINT 26 01 00 03 00]!!![WAIT]  Прошу![WAIT][MENU 02 00][MENUSPACEYES]Да[MENUSPACENO]Нет[ENDCHOICES][END]
+12-6E:@В подобные времена нам нужны безрассудные[BREAK]  добряки как ты![WAIT]@Идём, [FLINT 26 01 00 03 00]!!![WAIT]  Прошу![WAIT][MENU 02 00][MENUSPACEYES]Да[MENUSPACENO]Нет[ENDCHOICES][END]
 // Repeats: 2-6, 12-6
 12-7:[END]
 12-7E:[END]
@@ -2303,7 +2303,7 @@
 19-41E:@Интенсивно горит.[END]
 // Repeats: 19-41, 21-41
 19-42:[SOUND 03 00]@Chirp chirp.[WAIT]  (Sparrow Advice![WAIT]  You know how enemies sometimes leave nice[BREAK]  items behind after you fight them?[WAIT]  If your inventory is full when you find an item[BREAK]  you want,[WAIT]  you'll have to either give it up or throw[BREAK]  another item away.[WAIT]  Which is why it's a good idea to always eat[BREAK]  any food items you have as you go along.[WAIT]  Doing this will help keep your inventory from[BREAK]  getting full.[WAIT]  This little trick is especially useful for when[BREAK]  you're hiking through forests and mountains.[WAIT]  Well, now to end this with a sparrow-like...[EVENT][END]
-19-42E:[SOUND 03 00]@Чик-чирик.[WAIT]  (Совет Воробья![WAIT]  Знаешь, иногда враги оставляют что-нибуть[BREAK]  полезное после битвы?[WAIT]  Если у тебя полный инвертарь,[WAIT]  то тебе придётся либо оставить этот, либо[BREAK]  выкинуть другой предмет.[WAIT]  Поэтому лучше есть еду, которую находишь[BREAK]  во время прогулок.[WAIT]  Тогда в твоём инвертаре всегда будет место.[WAIT]  Этот трюк особенно полезен в лесах или в[BREAK]  горах.[WAIT]  Ну, закончу это воробьиным...[EVENT][END]
+19-42E:[SOUND 03 00]@Чик-чирик.[WAIT]  (Совет Воробья![WAIT]  Знаешь, иногда враги оставляют что-нибуть[BREAK]  полезное после битвы?[WAIT]  Если у тебя полный инвентарь,[WAIT]  то тебе придётся либо оставить этот, либо[BREAK]  выкинуть другой предмет.[WAIT]  Поэтому лучше есть еду, которую находишь[BREAK]  во время прогулок.[WAIT]  Тогда в твоём инвентаре всегда будет место.[WAIT]  Этот трюк особенно полезен в лесах или в[BREAK]  горах.[WAIT]  Ну, закончу это воробьиным...[EVENT][END]
 // Repeats: 19-42, 21-42
 19-43:[SOUND 03 00]  Achirpa chirp chirp!)[END]
 19-43E:[SOUND 03 00]  чирка-чик-чирик!)[END]
@@ -2447,7 +2447,7 @@
 21-41E:@Интенсивно горит.[END]
 // Repeats: 19-41, 21-41
 21-42:[SOUND 03 00]@Chirp chirp.[WAIT]  (Sparrow Advice![WAIT]  You know how enemies sometimes leave nice[BREAK]  items behind after you fight them?[WAIT]  If your inventory is full when you find an item[BREAK]  you want,[WAIT]  you'll have to either give it up or throw[BREAK]  another item away.[WAIT]  Which is why it's a good idea to always eat[BREAK]  any food items you have as you go along.[WAIT]  Doing this will help keep your inventory from[BREAK]  getting full.[WAIT]  This little trick is especially useful for when[BREAK]  you're hiking through forests and mountains.[WAIT]  Well, now to end this with a sparrow-like...[EVENT][END]
-21-42E:[SOUND 03 00]@Чик-чирик.[WAIT]  (Совет Воробья![WAIT]  Знаешь, иногда враги оставляют что-нибуть[BREAK]  полезное после битвы?[WAIT]  Если у тебя полный инвертарь,[WAIT]  то тебе придётся либо оставить этот, либо[BREAK]  выкинуть другой предмет.[WAIT]  Поэтому лучше есть еду, которую находишь[BREAK]  во время прогулок.[WAIT]  Тогда в твоём инвертаре всегда будет место.[WAIT]  Этот трюк особенно полезен в лесах или в[BREAK]  горах.[WAIT]  Ну, закончу это воробьиным...[EVENT][END]
+21-42E:[SOUND 03 00]@Чик-чирик.[WAIT]  (Совет Воробья![WAIT]  Знаешь, иногда враги оставляют что-нибуть[BREAK]  полезное после битвы?[WAIT]  Если у тебя полный инвентарь,[WAIT]  то тебе придётся либо оставить этот, либо[BREAK]  выкинуть другой предмет.[WAIT]  Поэтому лучше есть еду, которую находишь[BREAK]  во время прогулок.[WAIT]  Тогда в твоём инвентаре всегда будет место.[WAIT]  Этот трюк особенно полезен в лесах или в[BREAK]  горах.[WAIT]  Ну, закончу это воробьиным...[EVENT][END]
 // Repeats: 19-42, 21-42
 21-43:[SOUND 03 00]  Achirpa chirp chirp!)[END]
 21-43E:[SOUND 03 00]  чирка-чик-чирик!)[END]
@@ -3855,7 +3855,7 @@
 38-101:@[DUSTER 23 03 00]![BREAK]@Looks like you're working hard, doing all sorts[BREAK]  of things.[WAIT]@But just you watch.[WAIT]@Someday, I'm gonna be just like you, too...[END]
 38-101E:@[DUSTER 23 03 00]![BREAK]@Ты, похоже, очень усерден, делаешь самые[BREAK]  разные вещи.[WAIT]@Но ты смотри.[WAIT]@Однажды, я буду как ты...[END]
 38-102:@Don't tell me you're walking around with lots[BREAK]  of ho-hum items again, as usual.[WAIT]@Eat! Eat![WAIT]@Throw away! Throw away![WAIT]@You'll never have a tidy inventory otherwise.[END]
-38-102E:@Только не говори мне, что снова ходишь с[BREAK]  кучей хлама.[WAIT]@Ешь! Ешь![WAIT]@Выбрасывай! Выбрасывай![WAIT]@Иначе не видать тебе чистого инвертаря.[END]
+38-102E:@Только не говори мне, что снова ходишь с[BREAK]  кучей хлама.[WAIT]@Ешь! Ешь![WAIT]@Выбрасывай! Выбрасывай![WAIT]@Иначе не видать тебе чистого инвентаря.[END]
 38-103:@I'm so glad they gave me train station patrol.[WAIT]@This way, people like you can come talk to me.[WAIT]@Had I been given mountain patrol instead, I'd[BREAK]  only meet bears and stuff.[WAIT][PAUSE 1E 00]@That's scary.[END]
 38-103E:@Я так рад, что патрулирую станцию.[WAIT]@Благодаря этому, я могу говорить с людьми,[BREAK]  такими как ты.[WAIT]@А в горах я бы встречал лишь медведей и[BREAK]  подобное.[WAIT][PAUSE 1E 00]@Страшно.[END]
 38-104:@Ol' Beanstalk is gone, but sometimes I think I[BREAK]  can still hear the sound of his bell.[END]
@@ -5302,7 +5302,7 @@
 80-40:@Before I disappear, take this memento of me.[WAIT]@Take good care of it. [HEART][END]
 80-40E:@Прежде чем я исчезну, возьми моё мементо.[WAIT]@Хорошо о нём заботься. [HEART][END]
 80-41:@Oh, my. Your inventory is full.[WAIT]@Oh well, too bad! [HEART][END]
-80-41E:@Ой, твой инвертарь полон.[WAIT]@Ну ладно, очень жаль! [HEART][END]
+80-41E:@Ой, твой инвентарь полон.[WAIT]@Ну ладно, очень жаль! [HEART][END]
 // Repeats: 80-41, 175-18
 80-42:@Oh, wait.[PAUSE 18 00] I almost forgot something very[BREAK]  important.[WAIT]@Could you be a dear and give this to Ionia for[BREAK]  me? [HEART][END]
 80-42E:@Стой.[PAUSE 18 00] Я чуть не забыл кое-что очень важное.[WAIT]@Будь молодцом и отнеси это Ионии,[BREAK]  хорошо? [HEART][END]
@@ -6068,7 +6068,7 @@
 100-13:@I'm sorry. I'm disappearing now.[WAIT]@Before I go, here are final mementos of me.[BREAK]  A razor and lipstick. [HEART][WAIT]@Remember me sometimes,[PAUSE 18 00] okay? [HEART][END]
 100-13E:@Прости. Я исчезаю.[WAIT]@Прежде чем я пропаду, вот моё мементо.[BREAK]  Бритва и помада. [HEART][WAIT]@Не забывайте меня,[PAUSE 18 00] хорошо? [HEART][END]
 100-14:@Your inventory is full at a time like this?![WAIT]  Sheesh, you're such a big dummy.[WAIT]@Oh, well. Too bad. Forget I was about to give[BREAK]  you anything.[WAIT]@You dumb, silly goose! [HEART][END]
-100-14E:@У тебя именно сейчас полный инвертарь?![WAIT]  Божечки, какой ты дурачок.[WAIT]@Ой, ладно. Очень жаль. Забудь о том, что я[BREAK]  хотел тебе что-то дать.[WAIT]@Ты, дуралей! [HEART][END]
+100-14E:@У тебя именно сейчас полный инвентарь?![WAIT]  Божечки, какой ты дурачок.[WAIT]@Ой, ладно. Очень жаль. Забудь о том, что я[BREAK]  хотел тебе что-то дать.[WAIT]@Ты, дуралей! [HEART][END]
 100-15:@It's too bad I didn't get to see how everything[BREAK]  turns out, but...[EVENT][END]
 100-15E:@Очень жаль, что я не увижу конца, но...[EVENT][END]
 100-16:  [LUCAS 23 02 00], honey. [HEART][EVENT][END]
@@ -6439,7 +6439,7 @@
 116-2E:@Я понимаю, что тебе трудно его принять,[BREAK]  но тебе стоит его взять.[END]
 // Repeats: 12-79, 116-2
 116-3:@...Hey. Your inventory's full.[WAIT]@Come back after you organize your stuff.[END]
-116-3E:@...Эй, твой инвертарь полон.[WAIT]@Организуй всё и приходи потом.[END]
+116-3E:@...Эй, твой инвентарь полон.[WAIT]@Организуй всё и приходи потом.[END]
 116-4:@I think Lighter had something to give you, too.[WAIT]@He should be at the beach west of here.[END]
 116-4E:@Лайтер тоже хотел тебе что-то дать.[WAIT]@Он на пляже, к западу отсюда.[END]
 116-5:@Oh, hey there, [DUSTER 22 0F 00].[WAIT]@That look on your face...[BREAK]  You're after something, aren't you?[END]
@@ -8131,7 +8131,7 @@
 175-17:@Received [ITEM EC 00][PAUSE 40 00]![END]
 175-17E:@Получено: [ITEM EC 00][PAUSE 40 00]![END]
 175-18:@Oh, my. Your inventory is full.[WAIT]@Oh well, too bad! [HEART][END]
-175-18E:@Ой, твой инвертарь полон.[WAIT]@Ну ладно, очень жаль! [HEART][END]
+175-18E:@Ой, твой инвентарь полон.[WAIT]@Ну ладно, очень жаль! [HEART][END]
 // Repeats: 80-41, 175-18
 175-19:@Oh, wait. I almost forgot something very[BREAK]  important.[WAIT]@Could you give this to Ionia for me? [HEART][END]
 175-19E:@Ой, стой. Я чуть не забыл кое-что очень[BREAK]  важное.[WAIT]@Передашь это Ионии? [HEART][END]
@@ -10769,7 +10769,7 @@
 233-18:@Oxygen?[END]
 233-18E:@Кислороду?[END]
 233-19:@Oh, have we met somewhere before?[WAIT]@Me? My name is Rope Snake...[WAIT]  I was just considering living a quiet life as a[BREAK]  Snake Rope now.[WAIT]@If you happen to find that kind of sad, then[BREAK]  please talk to me... [PAUSE 20 00]and say, "Thanks."[WAIT]@And, "Your jaw saved us all."[WAIT]@No ordinary snake could've done that.[WAIT]@Nor an ordinary rope.[WAIT]@This conversation is turning out to be long,[BREAK]  just like the snake I am.[WAIT]  But I'm pleased to make your acquaintance.[WAIT]@[PLAYERNAME], was it?[WAIT]@I'll be certain to etch that name into my mind.[WAIT]@Have a good new year![WAIT]@Have a good new year![END]
-233-19E:@А, мы знакомы?[WAIT]@Я? Меня зовут Верёвочный Змей...[WAIT]  Я хотел тихо доживать свою жизнь как[BREAK]  Змеиная верёвка.[WAIT]@Если тебе меня жаль, то пожалуйста,[BREAK]  поговори со мной... [PAUSE 20 00]и скажи, "Спасибо."[WAIT]@И, "Твоя челюсть нас спасла."[WAIT]@Обычная змея так бы не смогла.[WAIT]@И обычная верёвка тоже.[WAIT]@Наш разговор уже так долог, как и я - змея.[WAIT]  Но мне было приятно с вами познакомится.[WAIT]@[PLAYERNAME], Так вас зовут?[WAIT]@Я запомню это.[WAIT]@Счастливого Нового Года![WAIT]@Счастливого Нового Года![END]
+233-19E:@А, мы знакомы?[WAIT]@Я? Меня зовут Верёвочный Змей...[WAIT]  Я хотел тихо доживать свою жизнь как[BREAK]  Змеиная верёвка.[WAIT]@Если тебе меня жаль, то, пожалуйста,[BREAK]  поговори со мной... [PAUSE 20 00]и скажи, "Спасибо."[WAIT]@И, "Твоя челюсть нас спасла."[WAIT]@Обычная змея так бы не смогла.[WAIT]@И обычная верёвка тоже.[WAIT]@Наш разговор уже так долог, как и я - змея.[WAIT]  Но мне было приятно с вами познакомится.[WAIT]@[PLAYERNAME], Так вас зовут?[WAIT]@Я запомню это.[WAIT]@Счастливого Нового Года![WAIT]@Счастливого Нового Года![END]
 233-20:@*hop*[WAIT]  Now that my saving job is over, I think I'll[BREAK]  settle down and take care of the tadpoles.[WAIT]@Thank you for everything.[BREAK]  [PAUSE 3C 00]No, wait, it's the other way around.[END]
 233-20E:@*скок*[WAIT]  Теперь, когда я закончил сохранять игру,[BREAK]  я буду заботится о головастиках.[WAIT]@Спасибо вам за всё.[BREAK]  [PAUSE 3C 00]Нет, стой, наоборот.[END]
 233-21:[ALTERNATEFONT]@tripped down.[END]
@@ -11268,7 +11268,7 @@
 252-31:@Cluck cluck.[WAIT]  (I guess not everyone is an egg person.)[END]
 252-31E:@Ко-ко-ко.[WAIT]  (Не каждому нравятся яйца.)[END]
 252-32:@Cluck-cluck.[WAIT]  (Your inventory is full.)[END]
-252-32E:@Ко-ко-ко.[WAIT]  (Твой инвертарь полон.)[END]
+252-32E:@Ко-ко-ко.[WAIT]  (Твой инвентарь полон.)[END]
 252-33:[END]
 252-33E:[END]
 
@@ -14884,7 +14884,7 @@
 388-25:@If you get lost in this mole cricket hole,[WAIT]  just ask my little bro for help and he'll bring[BREAK]  you straight back here.[WAIT][PAUSE 0F 00]@Right, little bro?[WAIT]@...C'mon, bro! Get your act together![WAIT]@The bad news is he's kinda lame and hates the[BREAK]  sunlight more than anything else in the world.[WAIT]@So be careful. You can't take him with you[BREAK]  outside the mole cricket hole.[WAIT][PAUSE 1E 00]@...Right, little bro?![END]
 388-25E:@Если потеряетесь в норе,[WAIT]  то попросите, и мой брат приведёт вас[BREAK]  обратно сюда.[WAIT][PAUSE 0F 00]@Да, братец?[WAIT]@...Давай, бро! Соберись![WAIT]@Дело в том, что он терпеть не может солнечный[BREAK]  свет.[WAIT]@Так что он не пойдёт с вами на улицу.[WAIT][PAUSE 1E 00]@...Да, братец?![END]
 388-26:@Oh, it looks like your inventory's full.[BREAK]  I guess you can't take my little bro with you.[END]
-388-26E:@Похоже, что ваш инвертарь полон.[BREAK]  Тогда вы не сможете взять моего брата.[END]
+388-26E:@Похоже, что ваш инвентарь полон.[BREAK]  Тогда вы не сможете взять моего брата.[END]
 388-27:@*mumble* *mumble* *murmur*...[BREAK]  What wonderful times![END]
 388-27E:@*бубнит* *бубнит* *шепчет*...[BREAK]  Как чудесно![END]
 388-28:@After meeting you guys, the elder's suddenly[BREAK]  full of life and enthusiastically asleep.[END]
@@ -15711,7 +15711,7 @@
 462-5:@But the secrets I've been guarding are now[BREAK]  starting to leak out.[WAIT]@[LUCAS 23 02 00].[BREAK]  The time has come to tell you everything.[WAIT]@What I'm about to tell you, you might not want[BREAK]  to know.[WAIT]@Even so, you absolutely must hear it.[PAUSE 3C 00][END]
 462-5E:@Но секреты, которые я охраняю - уже не[BREAK]  секреты для некоторых.[WAIT]@[LUCAS 23 02 00].[BREAK]  Ты должен узнать правду.[WAIT]@То, что я тебе расскажу, ты возможно не[BREAK]  хочешь знать.[WAIT]@Но ты должен меня выслушать.[PAUSE 3C 00][END]
 462-6:@It will be a long story, but please listen to it all.[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-462-6E:@Это будет долгая история, но пожалуйста,[BREAK]  выслушайте меня.[WAIT][MENU 02 00][MENUSPACEYES]Да[MENUSPACENO]Нет[ENDCHOICES][END]
+462-6E:@Это будет долгая история, но, пожалуйста,[BREAK]  выслушайте меня.[WAIT][MENU 02 00][MENUSPACEYES]Да[MENUSPACENO]Нет[ENDCHOICES][END]
 462-7:@I see...[WAIT]@Even if you refuse to listen, I still have no[BREAK]  choice but to talk.[WAIT]@You needn't listen. You can just stay there.[WAIT]@Even if it's just me talking to myself, I[BREAK]  absolutely must say what I have to say.[EVENT][END]
 462-7E:@Понятно...[WAIT]@Даже если ты отказываешься слушать, я все[BREAK]  равно буду говорить.[WAIT]@Можешь не слушать. Можешь просто стоять.[WAIT]@Даже если я говорю сам с собой, я должен[BREAK]  рассказать всё это.[EVENT][END]
 462-8:@Given who you are and how you've lived, what[BREAK]  I have to say will tear at your hearts,[WAIT]  and there is just so much to tell.[WAIT]@So I've decided to have the stinkbug trembling[BREAK]  behind me memorize everything I say.[WAIT][PAUSE 1E 00]@Ready, Mr. Stinkbug?[END]
@@ -15945,7 +15945,7 @@
 466-19:@You need to look for the pickles right now.[END]
 466-19E:@Тебе нужно искать огурцы.[END]
 466-20:@But your inventory was already full.[END]
-466-20E:@Но ваш инвертарь полон.[END]
+466-20E:@Но ваш инвентарь полон.[END]
 466-21:@[BONEY 23 05 00] can't hold two things in his[BREAK]  mouth at once.[END]
 466-21E:@[BONEY 23 05 00] не сможет унести 2 вещи[BREAK]  в своём рту.[END]
 466-22:@You find it?![END]
@@ -17444,7 +17444,7 @@
 624-37E:@Ох, я так рад, что ты поговорил со мной.[WAIT]@Если тебе не везёт, то такие персонажи, как[BREAK]  я, не имеющие сюжетной ценности,[WAIT]  часто пропущены, и проигнорированы.[WAIT]@Но я счастлив.[WAIT]@Ты поговорил со мной.[WAIT]@Другими словами, ты меня признал.[WAIT]@Ах, я так счастлив! Вот, держи![END]
 // Repeats: 624-37, 633-37
 624-38:@You've been so nice to me, but your body[BREAK]  doesn't seem to like me as much.[WAIT]@It's pretending that your inventory is full...[END]
-624-38E:@Ты так дружелюбен со мной, но твоё тело[BREAK]  меня не любит.[WAIT]@Оно притворяется, что твой инвертарь полон...[END]
+624-38E:@Ты так дружелюбен со мной, но твоё тело[BREAK]  меня не любит.[WAIT]@Оно притворяется, что твой инвентарь полон...[END]
 // Repeats: 624-38, 633-38
 624-39:@Hiya, friend![END]
 624-39E:@Привет, друг![END]
@@ -17533,7 +17533,7 @@
 627-9:@Ahh!![END]
 627-9E:@Ааа!![END]
 627-10:@Excuse me![BREAK]@That's a nice item you have there![WAIT]@I'm referring to that [ITEM 68 00][BREAK]  in your inventory.[WAIT]@If you let me have it, I'll give you the rare item[BREAK]  I'm hiding behind me in return.[WAIT]@What do you say?[WAIT][MENU 02 00][MENUSPACEYES]Yes[MENUSPACENO]No[ENDCHOICES][END]
-627-10E:@Извините меня![BREAK]@Какой у вас хороший предмет![WAIT]@Я имею в виду этот [ITEM 68 00][BREAK]  в вашем инвертаре.[WAIT]@Если вы отдадите его мне, я дам вам[BREAK]  редкий предмет, который я прячу за спиной.[WAIT]@Что скажешь?[WAIT][MENU 02 00][MENUSPACEYES]Да[MENUSPACENO]Нет[ENDCHOICES][END]
+627-10E:@Извините меня![BREAK]@Какой у вас хороший предмет![WAIT]@Я имею в виду этот [ITEM 68 00][BREAK]  в вашем инвентаре.[WAIT]@Если вы отдадите его мне, я дам вам[BREAK]  редкий предмет, который я прячу за спиной.[WAIT]@Что скажешь?[WAIT][MENU 02 00][MENUSPACEYES]Да[MENUSPACENO]Нет[ENDCHOICES][END]
 627-11:@I know it's not my place to say this, but that[BREAK]  [ITEM 68 00] isn't good for you.[WAIT]@It's rotten, you know![EVENT][END]
 627-11E:@Я знаю, что не должен говорить это, но этот[BREAK]  [ITEM 68 00] очень вреден для вас.[WAIT]@Он же гнилой![EVENT][END]
 627-12:[SOUND 03 00]@Keeheehee![END]
@@ -17719,7 +17719,7 @@
 633-37E:@Ох, я так рад, что ты поговорил со мной.[WAIT]@Если тебе не везёт, то такие персонажи, как[BREAK]  я, не имеющие сюжетной ценности,[WAIT]  часто пропущены, и проигнорированы.[WAIT]@Но я счастлив.[WAIT]@Ты поговорил со мной.[WAIT]@Другими словами, ты меня признал.[WAIT]@Ах, я так счастлив! Вот, держи![END]
 // Repeats: 624-37, 633-37
 633-38:@You've been so nice to me, but your body[BREAK]  doesn't seem to like me as much.[WAIT]@It's pretending that your inventory is full...[END]
-633-38E:@Ты так дружелюбен со мной, но твоё тело[BREAK]  меня не любит.[WAIT]@Оно притворяется, что твой инвертарь полон...[END]
+633-38E:@Ты так дружелюбен со мной, но твоё тело[BREAK]  меня не любит.[WAIT]@Оно притворяется, что твой инвентарь полон...[END]
 // Repeats: 624-38, 633-38
 633-39:@Hiya, friend![END]
 633-39E:@Привет, друг![END]
