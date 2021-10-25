@@ -956,9 +956,9 @@ org $80226C0; bl main_script_hacks.end_line_multi_menu
 //============================================================================================
 
 // re-center various menu labels using these new x-coordinates
-org $80C20E8; db $BF         // Goods
-org $80C20EA; db $C1         // Equip
-org $80C20EC; db $C5         // PSI
+org $80C20E8; db $C2         // Goods
+org $80C20EA; db $B5         // Equip
+org $80C20EC; db $C3         // PSI
 org $80C20EE; db $BE         // Status
 org $80C20F0; db $C1         // Sleep
 
