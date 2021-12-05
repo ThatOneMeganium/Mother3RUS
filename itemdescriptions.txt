@@ -318,7 +318,7 @@
 009D: Covers an enemy in honey, causing a swarm[BREAK]of bees to attack.[END]
 009D-E: Покрывает врага медом, призывая рой пчел.[END]
 009E: Causes an enemy to slip and fall, inflicting[BREAK]damage.[END]
-009E-E: аставляет врага упасть, нанося урон.[END]
+009E-E: Заставляет врага упасть, нанося урон.[END]
 009F: A doorknob from a front door.[END]
 009F-E: Ручка от двери.[END]
 00A0: Fast-acting pesticide.[BREAK]Damages insect enemies.[END]
