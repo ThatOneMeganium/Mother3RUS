@@ -316,7 +316,7 @@
 009C: Reduces all enemies' HP to 1.[BREAK]Don't rely on it, though. It could be a dud.[END]
 009C-E: Понижает ОЗ врагов до 1.[BREAK]Но не надейтесь на неё. Может не сработать.[END]
 009D: Covers an enemy in honey, causing a swarm[BREAK]of bees to attack.[END]
-009D-E: Покрывает врага медом, призывая рой пчел.[END]
+009D-E: Покрывает врага мёдом,[BREAK]призывая рой пчел.[END]
 009E: Causes an enemy to slip and fall, inflicting[BREAK]damage.[END]
 009E-E: Заставляет врага упасть, нанося урон.[END]
 009F: A doorknob from a front door.[END]
