@@ -2,30 +2,30 @@
 //Entries 1 through 3 are used for the "and his/her/its cohort/cohorts" in battle.
 //Entries 4 through 7 are used for telling the user in which slot a piece of equipment is supposed
 //to be put on.
-приятель
-приятели
- и 
- как оружие.
- на тело.
- на голову.
+РїСЂРёСЏС‚РµР»СЊ
+РїСЂРёСЏС‚РµР»Рё
+ Рё 
+ РєР°Рє РѕСЂСѓР¶РёРµ.
+ РЅР° С‚РµР»Рѕ.
+ РЅР° РіРѕР»РѕРІСѓ.
 .
 A 
 a 
 An 
 an 
-а
+Р°
 the 
 Some 
 some 
-его 
-её 
+РµРіРѕ 
+РµС‘ 
 its 
-их 
+РёС… 
 is 
 are 
 this 
 these 
-ваш 
+РІР°С€ 
 it
 them
 was 

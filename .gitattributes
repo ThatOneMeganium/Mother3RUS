@@ -1,2 +1,14 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Исправляет отображаемый текст во многих текстовых документах (если просматривать в GitHub)
+*.txt working-tree-encoding=CP1251 eol=CRLF
+M3FontEditor.txt working-tree-encoding=UTF-8 eol=CRLF
+musicnames.txt working-tree-encoding=UTF-8 eol=CRLF
+script.txt working-tree-encoding=UTF-8 eol=CRLF
+/M3text/0-8.txt working-tree-encoding=UTF-8 eol=CRLF
+/M3text/0-15.txt working-tree-encoding=UTF-8 eol=CRLF
+/M3text/0-16.txt working-tree-encoding=UTF-8 eol=CRLF
+/M3text/0-41.txt working-tree-encoding=UTF-8 eol=CRLF
+/M3text/0-42.txt working-tree-encoding=UTF-8 eol=CRLF
+/M3text/texttable.txt working-tree-encoding=UTF-8-BOM eol=CRLF
